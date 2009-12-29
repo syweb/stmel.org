@@ -1,0 +1,8 @@
+body{background:#000; color:#fff; font-family: Candara, Verdana, arial, sans-serif;}
+.wrapper{width:960px; margin:0 auto;}
+
+.navigation ul{float:left; margin:0; padding:0;}
+.navigation li{display:inline;}
+.navigation li a{float: left; padding:8px 16px; margin:0 20px;}
+
+.clear{clear:both;}
