@@ -1,8 +1,23 @@
 body{background:#000; color:#fff; font-family: Candara, Verdana, arial, sans-serif;}
-.wrapper{width:960px; margin:0 auto;}
+.wrapper{width:960px; margin:0 auto; position:relative;}
 
+.header{background:url('../images/mainimg_home.jpg'); height:339px; padding-top:4px;}
+.logo{position:absolute; top:70px; left:20px;}
+.title{position:absolute; top:30px; left:130px;}
+
+
+.navigation{background: url('../images/header-bg.gif'); font-size:15px; border-top:1px solid #000; border-bottom:1px solid #000}
 .navigation ul{float:left; margin:0; padding:0;}
 .navigation li{display:inline;}
-.navigation li a{float: left; padding:8px 16px; margin:0 20px;}
+.navigation li a{float: left; padding:8px 20px; margin:4px 10px; color:#fff;}
+.navigation li a:hover{background:#000; text-decoration:none;}
 
 .clear{clear:both;}
+
+.col{padding:10px; float:left; width:400px;}
+.col-large{width:520px;}
+
+.footer ul{margin:0; padding:0}
+.footer li{display:inline; }
+
+h2{border-bottom:1px solid #242424;}
