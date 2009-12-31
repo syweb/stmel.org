@@ -1,0 +1,41 @@
+body{background:#00182c url('../images/bg-grad.png') repeat-x; color:#ccd; font-family: arial, sans-serif; text-shadow:1px 1px 0px #000;}
+.wrapper{width:960px; margin:0 auto; position:relative; background:url('../images/bg.png');}
+
+.header{background:url('../images/mainimg_home.jpg'); height:339px;}
+.logo{position:absolute; top:70px; left:20px;}
+.title{position:absolute; top:30px; left:130px;}
+
+
+.navigation{position:absolute; left:0; top:4px; width:920px; padding:0 0 0 40px; background: url('../images/header-bg.gif'); font-size:15px; border-top:1px solid #000; border-bottom:1px solid #000}
+.navigation ul{float:left; margin:0; padding:0;}
+
+.navigation li{float:left; display:inline; position:relative;} 
+.navigation li ul{position:absolute; left:0; top:39px; z-index:2; background:rgba(0,0,0,0.8); display:none;}
+.navigation ul>li:hover>ul{display:block;}
+.navigation ul>li>ul>li>ul{left:222px; top:0; display:none;}
+.navigation ul>li>ul>li:hover>ul{display:block;}
+
+.navigation li li a {margin:0px 1px; width:180px;-moz-border-radius:0px; -webkit-border-radius:0px; border-bottom:1px solid #222;}
+
+.navigation li a{float: left; padding:4px 20px; margin:4px 10px; color:#fff; -moz-border-radius:4px; -webkit-border-radius:4px;}
+.navigation li a:hover, 
+.navigation li a:active, 
+.navigation li a:focus{background:#000; text-decoration:none;}
+
+.clear{clear:both;}
+
+.col{padding-right:20px; float:left; width:390px;}
+.col-large{width:530px;}
+.col-equal{width:460px;}
+.col-x-large{width:75%;}
+
+.content{border-bottom:1px solid #000;}
+.footer{border-top:1px solid #002c51; color:#666; font-size:11px; padding:30px 0 20px 80px; margin-bottom:1px; background:url('../images/logo-footer.png') no-repeat 00px 20px;}
+.footer ul{margin:0; padding:0}
+.footer li{display:inline; margin:0 5px 0 0; border-right:1px solid #447; padding:0 7px 0 0;}
+
+h2{border-bottom:1px solid #002c51;text-shadow:2px 2px 3px #000; color:#ddf;}
+.hrule{border-bottom:1px solid #002c51; margin:10px 0; height:1px;}
+
+p.author{text-align:right;}
+.special{background:rgba(255,255,255,0.05); border-left:1px solid rgba(255,255,255,0.08);border-top:1px solid rgba(255,255,255,0.08); padding:10px 0 0 10px; -moz-border-radius:4px; -webkit-border-radius:4px;}

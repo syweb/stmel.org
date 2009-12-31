@@ -1,0 +1,28 @@
+---
+
+filter:
+  - erb
+
+---
+      <div class="header"></div>
+      <h2>Community Service</h2>
+		
+      <div class="col col-large">
+
+
+		<h3>Christmas Pageant</h3>
+		<p>Students in grades TK through Eight participate in the annual Christmas Pageant.  The pageant is a long standing treasured tradition celebrated during the third week in December in the evening.  </p>
+
+		<h3>Living Stations of the Cross</h3>
+		<p>The Seventh Graders solemnly re-enact the 14 Stations of the Cross in this Passion play to all St. Mel School students and families during Holy Week.  In addition, the students share this moving drama in the church for the parish community on Good Friday.  </p>
+
+		<h3>Celebrations</h3>
+		<p>The study body participates in the following special seasonal celebrations:  Blessings of the Animals, the Lighting of the Advent wreath, Blessing of the Throats, the Recitation of the Holy Rosary, and May Crowning. </p>
+
+		
+
+      </div><!-- col col-large end -->
+      <div class="col">
+
+      </div><!-- col end -->
+      <div class="clear"></div>

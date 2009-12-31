@@ -1,0 +1,12 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header"></div>
+<div class="col col-x-large">
+  
+</div>
+<div class="clear"></div>
+

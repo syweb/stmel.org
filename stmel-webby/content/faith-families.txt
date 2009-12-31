@@ -1,0 +1,21 @@
+---
+
+filter:
+  - erb
+
+---
+
+<div class="header"></div><h2>Faith Families</h2>
+
+<div class="col col-large">
+
+<p>To encourage our students to get to know each other better, we have created a program called Faith Families. Students are grouped into a “family” headed by an eighth grader and consist of eight other students, one from each grade. Kindergartners become the newest members of school “Faith Families” each September. These “families” will meet each month on a designated day to take part in activities that focus on character education traits.</p>
+
+
+
+
+</div><!-- col col-large end -->
+<div class="col">
+
+</div><!-- col end -->
+<div class="clear"></div>

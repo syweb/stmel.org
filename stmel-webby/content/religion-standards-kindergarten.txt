@@ -1,0 +1,204 @@
+---
+
+filter:
+  - erb
+
+---
+      <div class="header"></div><h2>Religion Standards Kindergarten</h2>
+		
+      <div class="col col-large">
+
+		<ol>
+		  <li>MESSAGE: God is our Creator.
+		    <ol>
+		      <li>God
+		        <ol>
+		          <li>To experience that the wonders of the world are gifts from a loving God.</li>
+		          <li>To hear that God is a loving parent.</li>
+		          <li>To learn that God is the Creator of all that is good.</li>
+		          <li>To know that God loves us and cares for us.</li>
+		          <li>To find out who Jesus is and why he lived on Earth.</li>
+		          <li>To hear that Jesus is our Brother.</li>
+		          <li>To begin to learn about the birth of Jesus.</li>
+		          <li>To begin to learn that Jesus rose from the dead.</li>
+		          <li>To hear that Jesus teaches us to love.</li>
+		        </ol>
+		      </li>
+		      <li>Scripture
+		        <ol>
+		          <li>To experience the Bible as stories of God's people.</li>
+		        </ol>
+		      </li>
+		      <li>Doctrine
+		        <ol>
+		          <li>To begin to learn that Jesus is the Son of God</li>
+		          <li>To begin to learn that Mary is the Mother of Jesus.</li>
+		        </ol>
+		      </li>
+		    </ol>
+		  </li>
+		  <li>WORSHIP: We show our love for God in many ways.
+		    <ol>
+		      <li>Sacraments
+		        <ol>
+		          <li>To learn that we become members of God's special family, the Church, through  Baptism.</li>
+
+
+
+		        <li> To begin to learn about the special meal Jesus shared at the Last Supper.</li>
+		        <li> To experience reconciliation by learning to say "I'm sorry”.</li>
+		        <li> Prayer</li>
+		        <li>To experience prayer as talking and listening to God.</li>
+		        <li> To know that God wants to hear all that we have to say.</li>
+		        <li> To learn that God listens to us.</li>
+		        <li> To participate in communal prayer, such as; (1) Sign of the Cross; (2) Hail Mary; (3)Lord's Prayer; and (4) Grace before Meals.</li>
+		        <li> To have the opportunity to participate in a variety of prayer forms, such as: (1) spontaneous prayer; (2) guided meditation; (3) gestures; (4) song; and (5) dance.</li>
+		      </ol>
+		      </li>
+		      <li> Liturgy
+		        <ol>
+		          <li>To begin to learn that we belong to Jesus' Church.</li>
+		          <li> To understand and experience that Sunday is special.</li>
+		          <li> To learn simple Mass responses.</li>
+		          <li> To have the opportunity to participate in the preparation of a simple liturgy and/or prayer service.</li>
+		          <li> To genuflect.</li>
+		          <li> To know how to sit, stand, and kneel in church.</li>
+		        </ol>
+		      </li>
+		      <li> Liturgical Year
+		        <ol>
+		          <li>To experience the seasons of Advent and Lent as part of the liturgical year, especially Ash Wednesday and Holy Week.</li>
+		          <li> To learn about Church Holy Days.</li>
+		        </ol>
+		      </li>
+		      <li> Feast Days
+		        <ol>
+		          <li>To hear stories about saints at the time of their feast days and throughout the year.</li>
+		        </ol>
+		      </li>
+		      <li> Tradition
+		        <ol>
+		          <li>To experience customs associated with Liturgical Seasons.</li>
+		          <li> To experience Marian celebrations.</li>
+		          <li> To celebrate birthdays.</li>
+		          <li> To celebrate Thanksgiving in a Christian context.</li>
+		        </ol>
+		      </li>
+		    </ol>
+		  </li>
+		  <li>MORALITY: Responsibility toward God's creation.
+		    <ol>
+		      <li>To begin to learn and experience that humans are responsible for other humans.</li>
+		      <li>To appreciate that we need others.</li>
+		      <li>To learn to share with others.</li>
+		      <li>To begin to learn to say I'm sorry.</li>
+		      <li>To learn to say thanks.</li>
+		      <li>To begin to learn and experience that choices have consequences.</li>
+		      <li>To begin to learn and experience that humans are responsible for plants.</li>
+		      <li>To begin to learn and experience that humans are responsible for animals.</li>
+		    </ol>
+		  </li>
+		  <li>CATHOLIC SOCIAL TEACHING: We serve God through our actions.
+		    <ol>
+		      <li>Justice
+		        <ol>
+		          <li>To experience that God loves all children.</li>
+		          <li>To learn that all human beings deserve respect because they are created by and loved by God.</li>
+		          <li>To begin to learn that the family of God is one.</li>
+		          <li>To appreciate that all God's creatures are unique and deserving of respect.</li>
+		          <li>To appreciate that the poor and needy have a right to our care and concern.</li>
+		          <li>To begin to learn that God assists us in respecting and helping one another.</li>
+		          <li>To begin to understand that all people have a right to those things that are necessary to sustain life.</li>
+		        </ol>
+		      </li>
+		      <li>Peace
+		        <ol>
+		          <li>To experience peace that is found in getting along with others.</li>
+		          <li>To understand that each person in the group is responsible for that peace within the group.</li>
+		        </ol>
+		      </li>
+		      <li>Local Needs
+		        <ol>
+		          <li>To participate in service projects.</li>
+		        </ol>
+		      </li>
+		    </ol>
+		  </li>
+		  <li>COMMUNITY: We belong to God's family.
+		    <ol>
+		      <li>Models of Church
+		        <ol>
+		          <li>To explore the larger world of the faith family, the Church, through experiences of</li>
+		          <li>family and parish.</li>
+		          <li>To appreciate that family is a gift from God.</li>
+		          <li>To begin to learn that each of us is a member of God's Family.</li>
+		          <li>To begin to learn about belonging to Jesus' Church.</li>
+		          <li>To experience that we are all children of God.</li>
+		          <li>To experience the specialness and uniqueness of one's own name.</li>
+		        </ol>
+		      </li>
+		      <li>Church History
+		        <ol>
+		          <li>To hear about Jesus' life on earth.</li>
+		        </ol>
+		      </li>
+		      <li>Mary/Saints
+		        <ol>
+		          <li>To begin to learn that Mary is the Mother of God.</li>
+		          <li>To begin to learn that Mary is our Mother.</li>
+		          <li>To begin to learn that saints are friends of Jesus.</li>
+		          <li>To hear that saints are people who have said "yes" to God.</li>
+		        </ol>
+		      </li>
+		    </ol>
+		  </li>
+		  <li>FAMILY LIFE: Life is a Gift from God.
+		    <ol>
+		      <li>Human Dignity
+		        <ol>
+		          <li>To understand that everyone is special and unique.</li>
+		          <li>To learn that our body is God's gift.</li>
+		          <li>To appreciate that family is God's gift.</li>
+		          <li>To experience the five senses as gifts from God.</li>
+		          <li>To begin to learn that everyone needs others.</li>
+		        </ol>
+		      </li>
+		    </ol>
+		  </li>
+		  <li>TERMINOLOGY:
+		    <ol>
+		      <li>To become familiar with titles for people that are seen in church including: (1) altar servers; (2) lectors, (3) congregation (assembly); (4) musicians; (5) Eucharistic ministers; and (6) priests.</li>
+		      <li>To become familiar with the names for objects that are seen in church including: (1) altar cross; (2) cross; (3) banners; (4) cruets; (5) Bible; (6) hosts; (7) candles; (8) pews; (9) chalice; and (10) statues.</li>
+		      <li>To become familiar with the names for some of the signs of the Church seasons: (1) Advent wreath; (2) Christmas crib/crèche; (3) ashes; and (4) paschal candle.</li>
+		    </ol>
+		  </li>
+		  <li>SCRIPTURE REFERENCES to be used to develop the themes of the religion standards.
+		    <ol>
+		      <li>Genesis 1: 12-31 Story of Creation</li>
+		      <li>Genesis 5-9 Story of Noah</li>
+		      <li>Luke 1: 1-38 Annunciation: Mary being told that she would be the mother of Jesus</li>
+		      <li>Luke 2: 7-14 Story of the birth of Jesus</li>
+		      <li>Luke 18: 15-17 Jesus and the little children</li>
+		      <li>Matthew 6: 9-13 The Our Father</li>
+		    </ol>
+		  </li>
+		  <li>Matthew 26-27 Jesus’ passion</li>
+		  <li>Matthew 28 Jesus’ resurrection</li>
+		  <li>John 10: 1-18 Jesus the Good Shepherd</li>
+		</ol>
+
+
+	
+		
+
+		
+
+      </div><!-- col col-large end -->
+      <div class="col">
+				
+
+
+			
+
+      </div><!-- col end -->
+      <div class="clear"></div>

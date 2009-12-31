@@ -1,0 +1,23 @@
+---
+
+filter:
+  - erb
+
+---
+      <div class="header"></div><h2>Community Service</h2>
+		
+      <div class="col col-large">
+
+        <p>St. Mel School perpetuates a strong sense of Catholic service to the local community and globally. We strive to educate the whole child in an atmosphere of faith and academic excellence and nurture a life long commitment to serving others. Our goal is to help each student become a faith-filled steward. </p>
+
+		<h3>Classroom Service Projects </h3>
+		<p>All grades TK through Eighth participate in community service projects. Many of these service projects directly correlate to the curriculum, student learning expectations or a particular interest of the class. In addition, students in grades 7thand 8th are required to complete 20 hours per school year of community service to fulfill Confirmation requirements. </p>
+
+
+		
+
+      </div><!-- col col-large end -->
+      <div class="col">
+
+      </div><!-- col end -->
+      <div class="clear"></div>
