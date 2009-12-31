@@ -4,8 +4,7 @@ filter:
   - erb
 
 ---
-<div class="header"></div>
-<h2>Enrollment Application Form</h2>
+<div class="header" style="background:url(images/header/form.jpg) no-repeat 0 0;"></div><h2>Enrollment Application Form</h2>
 <div class="col col-x-large">
   <br />
   <p><a href="#">Download application form as a PDF file.</a></p>

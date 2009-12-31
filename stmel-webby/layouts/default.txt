@@ -19,7 +19,7 @@ filter:    erb
     </div>
     <div class="navigation">
       <ul>
-        <li><a href="http://www.stmelschool.org/">Home</a>
+        <li><a href="/">Home</a><!-- http://www.stmelschool.org -->
           <ul> 
             <li><a href="mission-philosophy.html">Mission/Philosophy</a></li> 
             <li><a href="our-history.html">Our History</a></li> 

@@ -4,7 +4,7 @@ filter:
   - erb
 
 ---
-<div class="header"></div>
+<div class="header" style="background:url(images/header/contact.jpg) no-repeat 0 0;"></div>
 <h2>Contact Us</h2>
 <div class="col col-x-large">
   <p>For more information about our school and how you can become an integral member of this learning community, stop by or contact the school office:</p>
