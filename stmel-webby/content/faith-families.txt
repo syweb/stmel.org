@@ -5,7 +5,8 @@ filter:
 
 ---
 
-<div class="header"></div><h2>Faith Families</h2>
+<div class="header" style="background:url('images/header/faith-fam.jpg') no-repeat 0 0;"></div>
+<h2>Faith Families</h2>
 
 <div class="col col-large">
 

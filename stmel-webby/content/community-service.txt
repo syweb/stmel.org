@@ -4,7 +4,8 @@ filter:
   - erb
 
 ---
-      <div class="header"></div><h2>Community Service</h2>
+      <div class="header" style="background:url('images/header/comm.jpg') no-repeat 0 0;"></div>
+      <h2>Community Service</h2>
 		
       <div class="col col-large">
 

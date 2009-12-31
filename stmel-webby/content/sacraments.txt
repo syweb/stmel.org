@@ -4,7 +4,8 @@ filter:
   - erb
 
 ---
-<div class="header"></div><h2>Sacraments</h2>
+<div class="header" style="background:url('images/header/sac.jpg') no-repeat 0 0;"></div>
+<h2>Sacraments</h2>
 <div class="col col-large">
   <h3>SACRAMENTS: FIRST COMMUNION </h3>
   <p>The Second graders at St. Mel School are given in-depth instruction in preparation for First Holy Communion which includes special evening Masses for parents and students. Students receive the First Holy Eucharist during a special liturgy which occurs on a Saturday morning in the Spring.  </p>
