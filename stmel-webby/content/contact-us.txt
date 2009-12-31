@@ -1,0 +1,19 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header"></div>
+<h2>Contact Us</h2>
+<div class="col col-x-large">
+  <p>For more information about our school and how you can become an integral member of this learning community, stop by or contact the school office:</p>
+  <p>Mailing Address and Telephone Number</p>
+  St. Mel School <br />
+  4745 Pennsylvania Avenue <br />
+  Fair Oaks, CA 95628 <br />
+  Fax: (916) 967-2814<br />
+  <p></p>
+</div>
+<div class="clear"></div>
+

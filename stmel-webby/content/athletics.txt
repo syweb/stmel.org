@@ -1,0 +1,14 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header"></div>
+
+  <div class="col col-large">
+  <h3>Athletics</h3>
+  <p>St. Mel Parish School offers an extensive extra-curricular athletic program, primarily through the PAL (Parochial Athletic League). The boys in sixth, seventh and eighth grades can play flag football. Boys and girls in grades five through eight are able to participate in cross-country, volleyball, track and field events, while students in grades sixth through eighth can participate in golf and bowling. We have basketball teams for boys and girls in grades first through eighth. Soccer is available to all of the children and is administered by the Fair Oaks Soccer Club.</p>
+  </div>
+<div class="clear"></div>
+
