@@ -13,6 +13,9 @@ filter:
   4745 Pennsylvania Avenue <br />
   Fair Oaks, CA 95628 <br />
   Fax: (916) 967-2814<br />
+  <p>
+    Or email us at <a href="office@stmelschool.org">office@stmelschool.org</a>
+  </p>
   <p></p>
 </div>
 <div class="clear"></div>
