@@ -1,0 +1,33 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header"></div>
+<h2></h2>
+<div class="col col-x-large">
+<h3></h3>
+<p></p>
+
+<h3></h3>
+<p></p>
+
+<h3></h3>
+<p></p>
+
+<h3></h3>
+<p></p>
+
+<h3></h3>
+<p></p>
+
+<h3></h3>
+<p></p>
+
+<h3></h3>
+<p></p>
+
+</div>
+<div class="clear"></div>
+

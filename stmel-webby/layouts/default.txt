@@ -41,7 +41,7 @@ filter:    erb
           <ul>
             <li><a href="faith-development.html">Faith Development</a></li>
             <li><a href="attending-mass.html">Attending Mass</a></li>
-            <li><a href="sacraments">Sacraments</a></li>
+            <li><a href="sacraments.html">Sacraments</a></li>
             <li><a href="altar-servers.html">Altar Servers</a></li>
             <li><a href="faith-families.html">Faith Families</a></li>
             <li><a href="community-service.html">Community Service</a></li>
@@ -50,7 +50,7 @@ filter:    erb
         </li>
         <li><a href="academics.html">Academics</a>
           <ul>
-            <li><a href="expectations.html">Expectations</a></li>
+            <!--<li><a href="expectations.html">Expectations</a></li>-->
             <li><a href="religious-standards.html">Religious Standards</a></li>
             <li><a href="curriculum-standards.html">Curriculum Standards</a></li>
           </ul>

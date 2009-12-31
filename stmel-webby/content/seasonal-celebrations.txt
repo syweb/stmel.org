@@ -5,7 +5,7 @@ filter:
 
 ---
       <div class="header"></div>
-      <h2>Community Service</h2>
+      <h2>Seasonal Celebrations</h2>
 		
       <div class="col col-large">
 

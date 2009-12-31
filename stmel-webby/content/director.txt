@@ -1,0 +1,17 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header"></div>
+<h2>Meet our Director </h2>
+<div class="col col-x-large">
+
+<p>I joined St. Mel Catholic School in 1999 as the Extension Director.  I had the incredible opportunity of starting the Extension program at St. Mel School from the ground up.  Many hours were spent refurbishing the chapel, parlor and study in one wing of the convent to three user-friendly student oriented activity rooms. Parent volunteers showed up on works days to bring assistance with cleaning, painting, decorating, organizing and handyman work.   Other families helped with generous donations of toys, board games, playground balls, arts and crafts materials and teaching supplies. It was truly a St. Mel School community effort to bring the Extension program to fruition. The Extension program opened it's doors August 1998.  The best part of my job as Extension Director is I get to form long term relationships with the students and their families.   It is like watching flowers bloom in a beautiful garden. I also serve on the Diocese of Sacramento’s Pre-School/Extension Directors Advisory Commission.   I assist in planning quarterly meetings and the annual Inservice Day.  In addition, I serve as the moderator for Student Council.  It is so gratifying to work with such a dynamic group of middle school students who actively seek to improve student life at St. Mel School and serve the community.      </p>
+<p>I received my Associate of Arts degree in General Education from American River Junior College and a Bachelor’s of Arts degree from California State University, Sacramento in Child Development.   During college I volunteered and worked part time in private elementary and pre-schools to gain experience in order to obtain my Children’s Center Permit and Administrative Credential.  In addition, I volunteered at the Children’s Receiving Home and at Marvin Marshall School with developmentally impaired children.   In 1981, after graduation, I was hired at a private school in Berkeley, California.  In 1982, I accepted a position at a private elementary and pre-school located in Citrus Heights.  During my 14 years at this school, I taught in the classrooms, supervised the after school elementary program, taught swim lessons, and eventually became the Director of the school.   </p>
+<p>I feel very blessed to be a part of a St. Mel Catholic School and the parish community.  My son graduated from St. Mel in 2004.  As a parent, I can see the benefits of a TK-8th grade Catholic education both short and long term.  I think each child receives a gift each and every time they are given the opportunity to learn and practice their faith in community with others. I believe a Catholic education gives a child that extra “tool” in the toolbox.   I thoroughly enjoy helping students of all ages and  parents to be successful in their educational endeavors.  My favorite things to do in my spare time are spending time with my family, going to the beach and boogie boarding, walking my dog, working in the yard, and making chocolate desserts! </p>
+
+</div>
+<div class="clear"></div>
+

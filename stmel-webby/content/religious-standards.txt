@@ -1,0 +1,26 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header"></div>
+<h2>Religion Standards</h2>
+<div class="col col-x-large">
+ <ul>
+	<li><a href="files/Kindergarten.pdf" class="pdf">Kindergarten</a></li>
+	<li><a href="files/Grade-One.pdf" class="pdf">Grade One</a></li>
+	<li><a href="files/Grade-Two.pdf" class="pdf">Grade Two</a></li>
+	<li><a href="files/Grade-Three.pdf" class="pdf">Grade Three</a></li>
+	<li><a href="files/Grade-Four.pdf" class="pdf">Grade Four</a></li>
+	
+	<li><a href="files/Grade-Five.pdf" class="pdf">Grade Five</a></li>
+	<li><a href="files/Grade-Six.pdf" class="pdf">Grade Six</a></li>
+	
+	<li><a href="files/Grade-Seven.pdf" class="pdf">Grade Seven</a></li>
+	<li><a href="files/Grade-Eight.pdf" class="pdf">Grade Eight</a></li>
+	
+ </ul>
+</div>
+<div class="clear"></div>
+

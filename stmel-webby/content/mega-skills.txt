@@ -1,0 +1,56 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header"></div>
+<h2>The Mega Skills Program</h2>
+<div class="col col-x-large">
+<p>The Extension Program will reinforce the school’s Student Learning
+Expectations through the Mega Skills program. Mega Skills are the values, the abilities, the inner engines of learning that determine success in school and beyond. We know they are important. We now know they can be taught and learned. Mega Skills is not about getting an
+“A” on tomorrow’s test. It’s about getting an”A” for life.
+</p>
+
+<p>Each month Extension will highlight and focus on one Mega Skill:</p>
+<ul>
+	<li>September Responsibility: doing what’s right</li>
+	<li>October Teamwork: working with others</li>
+	<li>November Confidence: feeling able to do it</li>
+	<li>December Motivation: wanting to do it</li>
+	<li>January Initiative: moving into action</li>
+	<li>February Caring: showing concern for others</li>
+	<li>March Problem Solving: putting what you know and what you can</li>
+	<li>do into action</li>
+	<li>April Perseverance: completing what you start</li>
+	<li>May Effort & Growth: being willing to work hard</li>
+</ul>
+
+
+<p>Students in grades TK through eighth will receive tickets before and after
+school for practicing these skills. Obviously, the “RECIPE” (a road map, not a
+set of rigid rules) and the “EXPECTATIONS” of a first grader and a seventh
+grader will be different. Tickets will be earned when an Extension staff member
+observes the student working hard, displaying effort, going the extra mile,
+participating in activities, being helpful, staying on task doing homework,
+lending a helping hand, being cooperative with peers and Extension teachers.
+Students will write their name on the front of the tickets and drop them into
+a big box. At the end of each month, a drawing will be held for 5 goodie bag
+prizes. The odds of winning goes up with the amount of tickets dropped into
+the bucket.
+</p>
+
+<p>We hope to motivate, recognize and reward students for their individual
+efforts. We realize that each child has been blessed with different gifts from
+God. Some children thrive in the academic department and will finish their
+assigned homework, others will not. Other children will display their gifts in an
+artistic fashion, a musical direction, a sporting/athletic event, or by displaying
+impeccable manners. All of these things matter and make the world go round.
+As the old saying goes, ”NO ONE CAN DO EVERYTHING, BUT EVERYONE
+CAN DO SOMETHING!”
+</p>
+
+
+</div>
+<div class="clear"></div>
+

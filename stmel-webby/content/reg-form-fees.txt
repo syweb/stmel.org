@@ -1,0 +1,41 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header"></div>
+<h2>Registration Forms and Fees</h2>
+<div class="col col-x-large">
+
+  <p>Attached is the Registration/Financial Contract Agreement. The Extension
+program continues to offer several payment plans in an effort to accommodate the
+various scheduling needs of students in grades TK through Eight. St. Mel Extension is
+self-sustaining and parent fees are its sole support.
+</p>
+<p>The 2009-10 school year will be our eleventh year of service to the families of St.
+Mel Catholic School. We continue our commitment to meet the needs of busy families by providing a safe, healthy and positive atmosphere which compliment’s your child’s needs before and/or after the regular school day in a consistent faith filled environment. Our ultimate goal is that each child will relax, thrive and develop a sense of responsibility for self and concern for others.
+</p>
+
+<p>The Extension Program shadows the school’s policies, procedures and calendar.
+We are open on the days the school is holding classes, including minimum days, such as first Fridays of the month and parent-teacher conference days. We are closed on school holidays, Thanksgiving, Christmas and Easter vacations and Faculty Inservice Days (on the days classes are not held). In addition, Extension closes at noon only on the minimum days before Christmas and Easter vacations. 
+</p>
+
+<p>The Extension program opens at 7:00 a.m. and closes at 6:00 p.m. The only day we close early is on Halloween at 5:00 p.m. Students have the ability to attend on-campus activities such as choir, yearbook, student council meetings, drama, scout meetings, academic competition practices, athletic events and practices and come to Extension before and/or after the activity. This provides continuity and safety in the student’s day and peace of mind for parents!</p>
+
+<p>On behalf of the Extension program, I would especially like to thank the many
+families who have donated toys, craft items, books, snacks and the individuals who
+helped in sprucing up the Extension classrooms. We are truly blessed to have so many wonderful families come through our doors each day. It has been our pleasure assisting you and your child.
+</p>
+
+<p>If you have any questions regarding extension, fees, schedule, activities, you are
+invited to drop by for a visit, call or e-mail us at 916-967-3105/ <a href="mailto:extension@stmelschool.org">extension@stmelschool.org</a>
+</p>
+
+<p><a href="/files/Reg-Packet-2009-10-TK-KIND-FEES.doc" class="word">Reg-Packet-2009-10-TK-KIND-FEES.doc<a></p>
+
+<p><a href="/files/Reg-Packet-2009-10-Fees-for-1st-8th.doc" class="word">Reg-Packet-2009-10-Fees-for-1st-8th.doc<a></p>
+
+</div>
+<div class="clear"></div>
+
