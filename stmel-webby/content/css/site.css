@@ -5,6 +5,7 @@ body{background:#00182c url('../images/bg-grad.png') repeat-x; color:#ccd; font-
 .logo{position:absolute; top:70px; left:20px;}
 .title{position:absolute; top:30px; left:130px;}
 
+strong{color:#fff;}
 
 .navigation{position:absolute; left:0; top:4px; width:920px; padding:0 0 0 40px; background: url('../images/header-bg.gif'); font-size:15px; border-top:1px solid #000; border-bottom:1px solid #000}
 .navigation ul{float:left; margin:0; padding:0;}
@@ -37,5 +38,4 @@ body{background:#00182c url('../images/bg-grad.png') repeat-x; color:#ccd; font-
 h2{border-bottom:1px solid #002c51;text-shadow:2px 2px 3px #000; color:#ddf;}
 .hrule{border-bottom:1px solid #002c51; margin:10px 0; height:1px;}
 
-p.author{text-align:right;}
 .special{background:rgba(255,255,255,0.05); border-left:1px solid rgba(255,255,255,0.08);border-top:1px solid rgba(255,255,255,0.08); padding:10px 0 0 10px; -moz-border-radius:4px; -webkit-border-radius:4px;}
