@@ -4,7 +4,7 @@ filter:
   - erb
 
 ---
-<div class="header"></div>
+<div class="header" style="background:url(images/header/faith.jpg) no-repeat 0 0;"></div>
 <h2>Tuition and Fees</h2>
 <div class="col col-x-large">
 <h3>Number of Children Tuition </h3>
