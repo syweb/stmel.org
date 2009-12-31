@@ -5,8 +5,7 @@ filter:
 
 
 ---
-<div class="header"></div>
-
+<div class="header" style="background:url(images/header/quality-catholic.jpg) no-repeat 0 0;"></div>
 <h2>Quality Catholic Education</h2>
 
 <div class="col col-x-large">

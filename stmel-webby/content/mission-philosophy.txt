@@ -4,7 +4,7 @@ filter:
   - erb
 
 ---
-<div class="header"></div>
+<div class="header" style="background:url(images/header/mission.jpg) no-repeat 0 0;"></div>
 <div class="col">
   <h2>Mission</h2>
   <p>St. Mel School, an educational ministry of St. Mel Parish, promotes academic excellence within a Catholic faith-filled environment. The school serves St. Mel Parish and the surrounding communities by providing a standards-based curriculum for Transitional (TK) and Kindergarten (K) through Eighth grade. A St. Mel education empowers students to become active, responsible Catholic adults whose lives reflect Gospel</p>
@@ -14,6 +14,4 @@ filter:
   <p>The task of educating the young belongs primarily with parents. St. Mel School endeavors to assist the parents in this role by creating a Catholic environment, which will promote the spiritual, intellectual, emotional, physical, and social growth of the child. Many opportunities are provided for development of right judgment and moral values, creative thinking, and the acceptance of leadership roles. Self-worth is developed in students, as they are encouraged to contribute their share in the work of building a Catholic community. Our success as Catholic educators is significantly enhanced by parental support. In addition, family life is strengthened by the active participation of its members in the Catholic school and parish.</p>
   
 </div><!-- col col-large end -->
-
 <div class="clear"></div>
-

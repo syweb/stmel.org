@@ -4,7 +4,7 @@ filter:
   - erb
 
 ---
-<div class="header"></div>
+<div class="header" style="background:url(images/header/history.jpg) no-repeat 0 0;"></div>
 <h2>Our History</h2>
 <div class="col col-equal">
   <p>St. Mel School was established in 1959 to serve the needs of the growing parish which began in 1949. Reverend William Horgan, the Pastor, at the request of the Most Reverend Joseph L. McGucken, Bishop of Sacramento, invited the Sisters of Mercy of Doon to staff the school. In August of that year, Sister Mary de Pazzi McKeough, Sister Mary of the Sacred Heart Troy, Sister Mary Laurence O’Dea, Sister Mary Rosario Ryan, Sister Mary Assumpta White, and Sister Mary Kieran O’Neill arrived in Fair Oaks to pioneer the work.</p>
