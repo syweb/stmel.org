@@ -21,7 +21,7 @@ strong{color:#fff;}
 .navigation li li a {margin:0px 1px; width:180px; -moz-border-radius:0px; -webkit-border-radius:0px; border-bottom:1px solid #222;}
 
 
-.navigation li a{float: left; padding:4px 20px; margin:4px 10px; color:#fff; -moz-border-radius:4px; -webkit-border-radius:4px;}
+.navigation li a{float: left; padding:4px 8px; margin:4px 10px; color:#fff; -moz-border-radius:4px; -webkit-border-radius:4px;}
 .navigation li a:hover, 
 .navigation li a:active, 
 .navigation li a:focus{background:#000; text-decoration:none; color:#fff;}
