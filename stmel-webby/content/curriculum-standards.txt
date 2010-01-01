@@ -122,12 +122,12 @@ filter:
 </ul>
 
 
-	<!--<h3>Technology Literacy Standards</h3>
+	<h3>Technology Literacy Standards</h3>
 <ul>
-	<li><a href="files/tech-st.pdf" class="pdf"> K-8</a></li>
+	<li><a href="files/technology-literacy.pdf" class="pdf">K-8</a></li>
 
 	
-</ul>-->
+</ul>
 
 </div>
 <div class="clear"></div>
