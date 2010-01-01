@@ -5,10 +5,21 @@ filter:
 
 ---
 <div class="header"></div>
-<h2></h2>
-<div class="col col-x-large">
-  <h3></h3>
-  <p></p>
-</div>
+<h2>Campus Tour</h2>
+  <center>
+
+    	   <p>
+    	     <div style="width:400px; height:300px; border:6px solid #ccc">
+                      <script type="text/javascript">
+                      //new fadeshow(IMAGES_ARRAY_NAME, slideshow_width, slideshow_height, borderwidth, delay, pause (0=no, 1=yes), optionalRandomOrder)
+                      var theShow = new fadeshow(fadeimages, 400, 300, 0, 3000, 1, "")
+
+                      </script>
+
+                    </div>
+   	      </p>
+
+    	</center>
+
 <div class="clear"></div>
 
