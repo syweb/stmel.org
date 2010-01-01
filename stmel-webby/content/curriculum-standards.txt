@@ -1,0 +1,134 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header"></div>
+<h2>Curriculum Standards</h2>
+<div class="col">
+	<h3>Religion Standards</h3>
+<ul>
+	<li><a href="files/Kindergarten.pdf" class="pdf">Kindergarten</a></li>
+	<li><a href="files/Grade-One.pdf" class="pdf">Grade One</a></li>
+	<li><a href="files/Grade-Two.pdf" class="pdf">Grade Two</a></li>
+	<li><a href="files/Grade-Three.pdf" class="pdf">Grade Three</a></li>
+	<li><a href="files/Grade-Four.pdf" class="pdf">Grade Four</a></li>
+	
+	<li><a href="files/Grade-Five.pdf" class="pdf">Grade Five</a></li>
+	<li><a href="files/Grade-Six.pdf" class="pdf">Grade Six</a></li>
+	
+	<li><a href="files/Grade-Seven.pdf" class="pdf">Grade Seven</a></li>
+	<li><a href="files/Grade-Eight.pdf" class="pdf">Grade Eight</a></li>
+	
+</ul>
+
+	<h3>Mathematics Standards</h3>
+<ul>
+	<li><a href="files/MA-Kindergarten.pdf" class="pdf">Kindergarten</a></li>
+	<li><a href="files/MA-Grade-One.pdf" class="pdf">Grade One</a></li>
+	<li><a href="files/MA-Grade-Two.pdf" class="pdf">Grade Two</a></li>
+	<li><a href="files/MA-Grade-Three.pdf" class="pdf">Grade Three</a></li>
+	<li><a href="files/MA-Grade-Four.pdf" class="pdf">Grade Four</a></li>
+	
+	<li><a href="files/MA-Grade-Five.pdf" class="pdf">Grade Five</a></li>
+	<li><a href="files/MA-Grade-Six.pdf" class="pdf">Grade Six</a></li>
+	
+	<li><a href="files/MA-Grade-Seven.pdf" class="pdf">Grade Seven</a></li>
+	<li><a href="files/MA-Grade-Eight.pdf" class="pdf">Grade Eight</a></li>
+	
+</ul>
+
+	<h3>Science Standards</h3>
+<ul>
+	<li><a href="files/SC-Kindergarten.pdf" class="pdf">Kindergarten</a></li>
+	<li><a href="files/SC-Grade-One.pdf" class="pdf">Grade One</a></li>
+	<li><a href="files/SC-Grade-Two.pdf" class="pdf">Grade Two</a></li>
+	<li><a href="files/SC-Grade-Three.pdf" class="pdf">Grade Three</a></li>
+	<li><a href="files/SC-Grade-Four.pdf" class="pdf">Grade Four</a></li>
+	
+	<li><a href="files/SC-Grade-Five.pdf" class="pdf">Grade Five</a></li>
+	<li><a href="files/SC-Grade-Six.pdf" class="pdf">Grade Six</a></li>
+	
+	<li><a href="files/SC-Grade-Seven.pdf" class="pdf">Grade Seven</a></li>
+	<li><a href="files/SC-Grade-Eight.pdf" class="pdf">Grade Eight</a></li>
+	
+</ul>
+
+	<h3>Physical Education Guidelines</h3>
+<ul>
+	<li><a href="files/PH-Kindergarten.pdf" class="pdf">Kindergarten</a></li>
+	<li><a href="files/PH-Grade-One.pdf" class="pdf">Grade One</a></li>
+	<li><a href="files/PH-Grade-Two.pdf" class="pdf">Grade Two</a></li>
+	<li><a href="files/PH-Grade-Three.pdf" class="pdf">Grade Three</a></li>
+	<li><a href="files/PH-Grade-Four.pdf" class="pdf">Grade Four</a></li>
+	
+	<li><a href="files/PH-Grade-Five.pdf" class="pdf">Grade Five</a></li>
+	<li><a href="files/PH-Grade-Six.pdf" class="pdf">Grade Six</a></li>
+	
+	<li><a href="files/PH-Grade-Seven.pdf" class="pdf">Grade Seven</a></li>
+	<li><a href="files/PH-Grade-Eight.pdf" class="pdf">Grade Eight</a></li>
+	
+</ul>
+
+</div>
+<div class="col col-large">
+  	<h3>Language Arts Standards</h3>
+ <ul>
+	<li><a href="files/LA-Kindergarten.pdf" class="pdf">Kindergarten</a></li>
+	<li><a href="files/LA-Grade-One.pdf" class="pdf">Grade One</a></li>
+	<li><a href="files/LA-Grade-Two.pdf" class="pdf">Grade Two</a></li>
+	<li><a href="files/LA-Grade-Three.pdf" class="pdf">Grade Three</a></li>
+	<li><a href="files/LA-Grade-Four.pdf" class="pdf">Grade Four</a></li>
+
+	<li><a href="files/LA-Grade-Five.pdf" class="pdf">Grade Five</a></li>
+	<li><a href="files/LA-Grade-Six.pdf" class="pdf">Grade Six</a></li>
+
+	<li><a href="files/LA-Grade-Seven.pdf" class="pdf">Grade Seven</a></li>
+	<li><a href="files/LA-Grade-Eight.pdf" class="pdf">Grade Eight</a></li>
+
+ </ul>
+
+  	<h3>History/Social Science Standards</h3>
+ <ul>
+	<li><a href="files/HIS-Kindergarten.pdf" class="pdf">Kindergarten</a></li>
+	<li><a href="files/HIS-Grade-One.pdf" class="pdf">Grade One</a></li>
+	<li><a href="files/HIS-Grade-Two.pdf" class="pdf">Grade Two</a></li>
+	<li><a href="files/HIS-Grade-Three.pdf" class="pdf">Grade Three</a></li>
+	<li><a href="files/HIS-Grade-Four.pdf" class="pdf">Grade Four</a></li>
+
+	<li><a href="files/HIS-Grade-Five.pdf" class="pdf">Grade Five</a></li>
+	<li><a href="files/HIS-Grade-Six.pdf" class="pdf">Grade Six</a></li>
+
+	<li><a href="files/HIS-Grade-Seven.pdf" class="pdf">Grade Seven</a></li>
+	<li><a href="files/HIS-Grade-Eight.pdf" class="pdf">Grade Eight</a></li>
+
+ </ul>
+
+	<h3>Music Guidelines</h3>
+<ul>
+	<li><a href="files/MU-Kindergarten.pdf" class="pdf">Kindergarten</a></li>
+	<li><a href="files/MU-Grade-One.pdf" class="pdf">Grade One</a></li>
+	<li><a href="files/MU-Grade-Two.pdf" class="pdf">Grade Two</a></li>
+	<li><a href="files/MU-Grade-Three.pdf" class="pdf">Grade Three</a></li>
+	<li><a href="files/MU-Grade-Four.pdf" class="pdf">Grade Four</a></li>
+
+	<li><a href="files/MU-Grade-Five.pdf" class="pdf">Grade Five</a></li>
+	<li><a href="files/MU-Grade-Six.pdf" class="pdf">Grade Six</a></li>
+
+	<li><a href="files/MU-Grade-Seven.pdf" class="pdf">Grade Seven</a></li>
+	<li><a href="files/MU-Grade-Eight.pdf" class="pdf">Grade Eight</a></li>
+
+</ul>
+
+
+	<!--<h3>Technology Literacy Standards</h3>
+<ul>
+	<li><a href="files/tech-st.pdf" class="pdf"> K-8</a></li>
+
+	
+</ul>-->
+
+</div>
+<div class="clear"></div>
+

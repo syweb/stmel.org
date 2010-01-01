@@ -1,0 +1,23 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header"></div>
+<h2>Our Faith</h2>
+<div class="col col-x-large">
+
+<ul>
+  <li><a href="faith-development.html">Faith Development</a></li>
+  <li><a href="attending-mass.html">Attending Mass</a></li>
+  <li><a href="sacraments.html">Sacraments</a></li>
+  <li><a href="altar-servers.html">Altar Servers</a></li>
+  <li><a href="faith-families.html">Faith Families</a></li>
+  <li><a href="community-service.html">Community Service</a></li>
+  <li><a href="seasonal-celebrations.html">Seasonal Celebrations</a></li>
+</ul>
+
+</div>
+<div class="clear"></div>
+
