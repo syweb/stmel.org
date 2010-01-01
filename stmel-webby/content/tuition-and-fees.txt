@@ -15,7 +15,7 @@ filter:
 	<li>$10,025.00</li>	
 	<li>$11,850.00</li>		
 </ol>
-<h2>NON-PARISHONER RATES</h2>
+<h2>Non-parishoner rates</h2>
 <h3>Number of Children Tuition </h3>
 <p>TK $ 3,175.00 </p>
 <ol>
