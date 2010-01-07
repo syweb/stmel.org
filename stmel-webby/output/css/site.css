@@ -15,7 +15,7 @@ strong{color:#fff;}
 .navigation li ul{position:absolute; left:0; top:39px; z-index:2; background:rgba(0,0,0, 0.8); display:none;}
 .navigation ul>li:hover>ul{display:block;}
 .navigation ul>li.open>ul{display:block!important;}
-.navigation ul>li>ul>li>ul{left:222px; top:0; display:none;}
+.navigation ul>li>ul>li>ul{left:195px; top:0; display:none;}
 .navigation ul>li>ul>li:hover>ul{display:block; z-index:3;}
 
 .navigation li li a {margin:0px 1px; width:180px; -moz-border-radius:0px; -webkit-border-radius:0px; border-bottom:1px solid #222;}
@@ -26,7 +26,7 @@ strong{color:#fff;}
 .navigation li a:active, 
 .navigation li a:focus{background:#000; text-decoration:none; color:#fff;}
 * html .navigation li a{font-weight:bold; }
-
+.navigation ul li{height:39px;}
 
 .clear{clear:both;}
 
