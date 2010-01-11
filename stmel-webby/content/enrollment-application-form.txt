@@ -5,7 +5,7 @@ filter:
 
 ---
 <div class="header" style="background:url(images/header/form.jpg) no-repeat 0 0;"></div>
-<h2>Enrollment Application Form</h2>
+<h2>Enrollment Application</h2>
 <div class="col col-x-large">
   <br />
   <p><a href="files/Enrollment-Application-2008.doc"  class="word">Download application form as a MS Word file.</a></p>

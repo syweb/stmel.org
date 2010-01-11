@@ -5,10 +5,10 @@ filter:
 
 ---
 <div class="header" style="background:url(images/header/academics.jpg) no-repeat 0 0;"></div>
-<h2>School Wide Learning Expectations</h2>
+<h2>School-Wide Learning Expectations</h2>
 <div class="col">
-<p>A St. Mel graduate is: </p>
-<h3>An active, responsible Catholic who: </h3>
+<h3>A St. Mel graduate is: </h3>
+<p>An active, responsible Catholic who: </p>
 <ul>
 <li>Displays commitment to the Church by regular attendance and participates in liturgies, prayer services, retreats and sacramental preparation programs </li>
 <li>Demonstrates basic knowledge of the teachings of the Catholic Church </li>
@@ -18,8 +18,9 @@ filter:
 <li>Studies the Bible and has an emerging understanding of Scripture</li>
 
 </ul>
+<br/>
 
-<h3>A moral and ethical individual who: </h3>
+<p>A moral and ethical individual who: </p>
 <ul>
 <li>Speaks out to defend what is right </li>
 <li>Develops self-control and responsibility for one’s actions </li>
@@ -28,8 +29,9 @@ filter:
 <li>Realizes that there is a need to respond to global issues and responds </li>
 
 </ul>
+<br/>
 
-<h3>An effective communicator who: </h3>
+<p>An effective communicator who: </p>
 <ul>
 <li>Interprets and communicates written information</li> 
 <li>Expresses written thoughts clearly, using correct grammar, syntax and mechanics</li> 
@@ -41,10 +43,12 @@ filter:
 <li>Recognizes and understands nonverbal communication</li> 
 
 </ul>
+<br/>
+
 </div>
 <div class="col col-large">
 <br/><br/>
-	<h3>A life-long learner who:</h3> 
+	<p>A life-long learner who:</p> 
 	<ul>
 		<li>Welcomes continued educational development in all disciplines</li> 
 		<li>Demonstrates an enthusiasm for knowledge and willingness to investigate questions</li> 
@@ -53,7 +57,9 @@ filter:
 		<li>Appreciates aesthetic beauty and the fine arts</li> 
 		<li>Acquires knowledge as stated in content standards</li> 
 	</ul>
-	<h3>A physically and mentally healthy person who:</h3> 
+<br/>
+
+	<p>A physically and mentally healthy person who:</p> 
 	<ul>
 		<li>Has positive self-worth</li> 
 		<li>Appreciates the importance of healthy life-style choices</li> 
@@ -61,7 +67,9 @@ filter:
 		<li>Understands that a healthy body is necessary in developing an alert and active mind</li> 
 		<li>Practices good fitness and nutritional habits</li> 
 	</ul>
-	<h3>An independent, open-minded thinker who:</h3> 
+<br/>
+
+	<p>An independent, open-minded thinker who:</p> 
 	<ul>
 		<li>Adapts learned knowledge to real life experiences</li> 
 		<li>Is able to deal with life experiences rationally and reasonably</li> 
@@ -70,6 +78,8 @@ filter:
 		<li>Is encouraged to reason independently, think critically and constructively, and to be a problem solver</li> 
 		<li>Assess his own needs for self-improvement and demonstrates resourcefulness in dealing with challenges</li> 
 	</ul>
+<br/>
+
 
 </div>
 <div class="clear"></div>

@@ -5,7 +5,7 @@ filter:
 
 ---
 <div class="header" style="background:url(images/header/admission-timeline.jpg) no-repeat 0 0;"></div>
-<h2>Admissions Timeline</h2>
+<h2>Admission Timeline</h2>
 
 <div class="col col-x-large">
   <p>The majority of new students receive letters of acceptance in April for the following school year. However, St. Mel School does accept students in grades TK through Eight throughout the school year if the applicant meets the admission criteria and the classroom has openings for new students.</p>
@@ -17,9 +17,9 @@ filter:
     <li>  Copy of updated immunization records</li>
   </ul>
   <h3>Prospective Parent Information Meetings</h3>
-  <p>These meetings are for prospective parents who are considering a Catholic education for their children entering grades TK through Eighth grade at St. Mel School. Typically Prospective Parent meetings occur in November, January, and March. The school principal with faculty members and parent representatives are available for questions and answers. Parents have an opportunity to  go on a school tour and see the school in action, receive enrollment information, tuition information, learn about Student Learning Expectations and curriculum standards, student life, uniforms, before and after school care, etc. Specific dates and times are available on the school website or call the school office at <strong>916-967-2814</strong>.</p>
+  <p>These meetings are for prospective parents who are considering a Catholic education for their children entering grades TK through Eight grade at St. Mel School. Typically Prospective Parent meetings occur in November, January, and March. The school principal with faculty members and parent representatives are available for questions and answers. Parents have an opportunity to  go on a school tour and see the school in action, receive enrollment information, tuition information, learn about Student Learning Expectations and curriculum standards, student life, uniforms, before and after school care, etc. Specific dates and times are available on the school website or call the school office at <strong>916-967-2814</strong>.</p>
 <h3>  Open House</h3>
-  <p>St. Mel School hosts its annual Open House on a Sunday in late January to kick off Catholic Schools Week. At this time prospective and school families have the opportunity to learn about the school and its mission to provide a high-quality, values based education. Open House will occur after the 9:30 a.m. Mass. All Classrooms are open including the Science Lab, the Technology Lab and the Extension Program. In addition, the school hosts an annual Book Fair and Bake Sale along with an Art Show highlighting student artwork that has been produced by the Art Docent Program.</p>
+  <p>St. Mel School hosts its annual Open House on a Sunday in late January to kick off Catholic Schools Week. At this time, prospective and school families have the opportunity to learn about the school and its mission to provide a high-quality, values based education. Open House will occur after the 9:30 a.m. Mass. All classrooms are open including the Science Lab, the Technology Lab and the Extension Program. In addition, the school hosts an annual Book Fair and Bake Sale along with an Art Show highlighting student artwork that has been produced by the Art Docent Program.</p>
   <h3>December - March</h3>
 <p>  St. Mel School begins to accept applications for the following school year in December by filling out the New Family Registration Form. Please contact our school secretary, Jane Lumsargis, at office@stmelschool.org or (916) 967-2814 to request a New Family Registration Form.</p>
   <h3>December - April</h3>
