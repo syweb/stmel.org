@@ -13,7 +13,7 @@ filter:
 </div><!-- col col-large end -->
 <div class="col">
   <ul>
-    <li>There is a comprehensive religion curriculum in grades TK thru 8 </li>
+    <li>There is a comprehensive religion curriculum in grades TK through Eigth </li>
     <li>Each day begins with a shared prayer </li>
     <li>The children attend Mass with their class once a week </li>
     <li>Each class participates in a special school liturgy attended by all students and many members of the parent community. </li>
