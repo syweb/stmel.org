@@ -5,7 +5,7 @@ filter:
   - erb
 ---
    
-<div class="header">
+<div class="header" style="background:url('images/header/home.jpg') no-repeat 0 0;">
   <div class="address" style="color:#000077;  left:365px;  position:absolute;  text-align:right;  text-shadow:1px 1px 1px #FFFFFF;  top:175px;">
     4745 Pennsylvania Avenue <br/>
     Fair Oaks, CA 95628 <br/>

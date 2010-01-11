@@ -4,7 +4,7 @@ filter:
   - erb
 
 ---
-<div class="header"></div>
+<div class="header" style="background:url('images/header/curriculum-standards.jpg') no-repeat 0 0;"></div>
 <h2>Curriculum Standards</h2>
 <div class="col">
 	<h3>Religion Standards</h3>
