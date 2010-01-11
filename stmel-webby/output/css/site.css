@@ -43,4 +43,4 @@ strong{color:#fff;}
 h2{border-bottom:1px solid #002c51;text-shadow:2px 2px 3px #000; color:#ddf;}
 .hrule{border-bottom:1px solid #002c51; margin:10px 0; height:1px;}
 
-.special{background:rgba(255,255,255,0.05); border-left:1px solid rgba(255,255,255,0.08);border-top:1px solid rgba(255,255,255,0.08); padding:10px 0 0 10px; -moz-border-radius:4px; -webkit-border-radius:4px;}
+.special{background:rgba(255,255,255,0.05); border-left:1px solid rgba(255,255,255,0.08);border-top:1px solid rgba(255,255,255,0.08); padding:10px 0 0 10px; -moz-border-radius:4px; -webkit-border-radius:4px; font-size:90%;}

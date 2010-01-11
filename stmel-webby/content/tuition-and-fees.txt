@@ -8,27 +8,28 @@ filter:
 <h2>Tuition and Fees</h2>
 <div class="col col-equal">
 	<h2>Parishoner rates</h2>
-	<h3>Number of Children Tuition </h3>
-	<p>TK $ 2,700 </p>
-	<ol>
-		<li>$ 4,075</li>
-		<li>$ 7,425</li>
-		<li>$10,025</li>	
-		<li>$11,850</li>		
-	</ol>
+	<p>Tuition per Number of Children </p>
+	<ul>
+	<li>TK $ 2,700 </li>
+	
+		<li>1 - $ 4,075</li>
+		<li>2 - $ 7,425</li>
+		<li>3 - $10,025</li>	
+		<li>4 - $11,850</li>		
+	</ul>
 
 </div>
 <div class="col col-equal">
 	<h2>Non-parishoner rates</h2>
-	<h3>Number of Children Tuition </h3>
-	<p>TK $ 3,175 </p>
-	<ol>
-		<li>$ 4,850</li> 
-		<li>$ 8,400 </li>
-		<li>$11,100 </li>
-		<li>$13,600 </li>
+	<p>Tuition per Number of Children </p>
+	<ul>
+		<li>TK $ 3,175 </li>
+		<li>1 - $ 4,850</li> 
+		<li>2 - $ 8,400 </li>
+		<li>3 - $11,100 </li>
+		<li>4 - $13,600 </li>
 		
-	</ol>
+	</ul>
 	<p>Registration Fee: $300, 
 	8th Grade Registration: $350</p>
 </div>

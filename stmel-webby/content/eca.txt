@@ -15,7 +15,6 @@ filter:
   </li><li>Academic Decathlon
   </li><li>Skate Nights 
   </li><li>Drama Production
-  </li><li>Loretto Math Competition 
   </li><li>Essay Contests 
   </li><li>Christmas Program
   </li><li>Community Service projects 
