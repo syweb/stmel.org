@@ -12,7 +12,7 @@ filter:
   <p>  An accelerated math program for qualified students in grades seven and eight began in 1979; the program was extended in 1980 to include students in grades four through eight.</p>
 </div>
 <div class="col col-equal">
-  <p>  In 1984, computer classes were offered to students in grades Kindergarten through eight. In 1996, a fine arts program was incorporated into the curriculum. The Extension Program opened its doors to students before and after school in 1998. An Art Docent program which includes art appreciation and hands-on projects began in January 2004. Transitional Kindergarten (TK) started in August 2004. A Resource teacher joined the faculty in 2006 and provides services to students in grades Kindergarten – 8th. A new Science Lab was constructed and dedicated in 2007.</p>
+  <p>  In 1984, computer classes were offered to students in grades Kindergarten through eight. In 1996, a fine arts program was incorporated into the curriculum. The Extension Program opened its doors to students before and after school in 1998. An Art Docent program which includes art appreciation and hands-on projects began in January 2004. Transitional Kindergarten (TK) started in August 2004. A Resource teacher joined the faculty in 2006 and provides services to students in grades Kindergarten – Eight. A new Science Lab was constructed and dedicated in 2007.</p>
   <p>Enrollment has remained constant since the last accreditation in 2004. The school population continues to be predominantly Catholic. In 1990, Mrs. Janet Nagel was appointed the first lay principal of St. Mel School. The commitment and direction of the Sisters of Mercy remain a vital force in the implementation of the philosophy of the school.</p>
 </div>
 <div class="clear"></div>
