@@ -1,7 +1,7 @@
 body{background:#00182c url('../images/bg-grad.png') repeat-x; color:#ccd; font-family: Arial, sans-serif; text-shadow:1px 1px 0px #000;}
 .wrapper{width:960px; margin:0 auto; position:relative; }
 
-
+p{font-size:14px;}
 .header{background:url('../images/mainimg_home.jpg'); height:339px;}
 .logo{position:absolute; top:70px; left:20px;}
 .title{position:absolute; top:30px; left:130px;}
@@ -37,9 +37,10 @@ strong{color:#fff;}
 
 .content{border-bottom:1px solid #000;}
 .footer{border-top:1px solid #002c51; color:#666; font-size:11px; padding:30px 0 20px 80px; margin-bottom:1px; background:url('../images/logo-footer.png') no-repeat 00px 20px;}
+.footer p{font-size:11px;}
 .footer ul{margin:0; padding:0}
 .footer li{display:inline; margin:0 5px 0 0; border-right:1px solid #447; padding:0 7px 0 0;}
-
+.footer li.last{border-right:none;}
 h2{border-bottom:1px solid #002c51;text-shadow:2px 2px 3px #000; color:#ddf;}
 .hrule{border-bottom:1px solid #002c51; margin:10px 0; height:1px;}
 
