@@ -78,7 +78,7 @@ filter:    erb
           </ul>
         </li>
         <li><a href="contact-us.html">Contact Us</a></li>
-		<li><a href="https://stmelfo.schoolyardapp.com/"><img src="images/sy-login.png" alt="Login to CM Schoolyard"/></a></li>
+		    <li class="sy-login"><a href="https://stmelfo.schoolyardapp.com/"><img src="images/sy-login.png" alt="Login to CM Schoolyard"/></a></li>
       </ul>
       <div class="clear"></div>
     </div><!-- navigation end -->

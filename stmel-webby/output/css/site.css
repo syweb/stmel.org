@@ -24,6 +24,11 @@ strong{color:#fff;}
 .navigation li a:hover, 
 .navigation li a:active, 
 .navigation li a:focus{background:#000; text-decoration:none; color:#fff;}
+/*
+.navigation li.sy-login a:hover, 
+.navigation li.sy-login a:active, 
+.navigation li.sy-login a:focus{background:none; text-decoration:none; color:#fff;}*/
+
 * html .navigation li a{font-weight:bold; }
 .navigation ul li{height:39px;}
 
