@@ -13,7 +13,7 @@ var fadeimages = new Array()
  fadeimages[4] = ["images/slideshow/miscellaneous-082.jpg", "", ""]
  fadeimages[5] = ["images/slideshow/miscellaneous-088.jpg", "", ""]
  fadeimages[6] = ["images/slideshow/recess-photos-019.jpg", "", ""]
-
+ fadeimages[7] = ["images/slideshow/church-50.jpg", "", ""]
 
  var fadebgcolor = "white"
 
