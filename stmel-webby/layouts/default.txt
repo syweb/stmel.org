@@ -25,6 +25,7 @@ filter:    erb
       <ul>
         <li><a href="index.html">Home</a><!-- http://www.stmelschool.org -->
           <ul> 
+            <li><a href="welcome-from-the-principal.html">Welcome from Principal</a></li>
             <li><a href="mission-philosophy.html">Mission/Philosophy</a></li> 
             <li><a href="our-history.html">Our History</a></li> 
             <li><a href="quality-catholic-education.html">Quality Catholic Education</a></li>
@@ -39,7 +40,7 @@ filter:    erb
               </ul>
             </li>
             <li><a href="campus-tour.html">Campus Tour</a></li>
-            <li><a href="welcome-from-the-principal.html">Welcome from Principal</a></li>
+
             
           </ul>
         </li>

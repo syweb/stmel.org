@@ -5,9 +5,8 @@ filter:
 
 ---
 <div class="header" style="background:url(images/header/principal.jpg) no-repeat 0 0;"></div>
-<h2>Letter from the Principal</h2>
+<h2>Dear Prospective Family</h2>
 <div class="col col-x-large">
-  <p>Dear Prospective School Family,</p>
   <p>I invite you to consider a Catholic education for your child at St. Mel Catholic School. You have good reason to have confidence in St. Mel School. When your child enters St. Mel in August, you can rest assured that he/she will receive a superior education. The Western Accreditation of Schools & Colleges (WASC) and the Western Catholic Education Association awarded St. Mel School with the highest rating possible. As you can see, your child enters a school where academic excellence is part of the culture. We are proud to include ancillary academic programs such as: computer/technology education provided by Computer Explorers Integrated Technology Resource Program; an art docent program encompassing art history, art forms, and hands-on art experiences; a science lab that provides the student with a comprehensive science experience that is structured to maximize direct student involvement.</p>
   <p>Your child benefits from dynamic, daily faith formation through religious education. St. Mel offers weekly opportunities to attend Mass and other liturgical celebrations that are intended to support the faith that you have built at home. We recognize and respect that parents are the primary educators of their child. Realizing that our efforts form a partnership, I ask you to join us in our work to make your child’s school experience rewarding and successful.</p>
   <p>St. Mel School offers access to a variety of activities that address the needs of the whole child. An extensive athletic program is available to students in grades 1st – 8th including flag football, volleyball, basketball, bowling, cross- country, golf and track. Student Council provides students in grades 6th – 8th opportunities to practice leadership, public speaking skills and develop organizational abilities. Choir, drama and an annual talent show give students an opportunity to showcase their many talents.</p>
