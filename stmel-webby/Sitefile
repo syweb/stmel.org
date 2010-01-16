@@ -5,9 +5,8 @@ desc 'deploy the site to the webserver'
 task :deploy => [:build, 'deploy:rsync']
 
 SITE.user = "sites"
-SITE.password = "prasfuVoo"
-SITE.host = "209.20.66.162"
-SITE.remote_dir = "/www.collaborativemethods.com/stmels/"
+SITE.host = "stmelschool.org"
+SITE.remote_dir = "stmelschool.org"
 
 
 
