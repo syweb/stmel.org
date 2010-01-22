@@ -11,5 +11,5 @@ filter:
   <p><a href="files/Enrollment-Application.doc"  class="word">Download application form as a MS Word file.</a></p>
 <br /><br /><br /><br /><br />
 </div>
-<div class="clear"></div>
+<div class="clear"></div> 
 
