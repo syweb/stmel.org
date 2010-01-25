@@ -50,4 +50,11 @@ strong{color:#fff;}
 h2{border-bottom:1px solid #002c51;text-shadow:2px 2px 3px #000; color:#ddf;}
 .hrule{border-bottom:1px solid #002c51; margin:10px 0; height:1px;}
 
-.special{background:rgba(255,255,255,0.05); border-left:1px solid rgba(255,255,255,0.08);border-top:1px solid rgba(255,255,255,0.08); padding:10px 0 0 10px; -moz-border-radius:4px; -webkit-border-radius:4px; }
+.special{background:rgba(255,255,255,0.05); border-left:1px solid rgba(255,255,255,0.08);border-top:1px solid rgba(255,255,255,0.08); padding:10px 0 0 20px; -moz-border-radius:4px; -webkit-border-radius:4px; }
+.events{font-size:80%; position:relative; top:-10px; width:389px; display:inline;}
+.events ul{padding:0;/* height:300px; overflow-y:auto;*/}
+.events li{border-bottom:1px solid #002C51; border-top:1px solid #00070D; padding:10px 0; display:block;}
+.events li.first{border-top:none;}
+.events li.last{border-bottom:none;}
+
+
