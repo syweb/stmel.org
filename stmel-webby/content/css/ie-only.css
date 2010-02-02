@@ -1,4 +1,4 @@
-img, .navigation { behavior: url(iepngfix.htc) }
+img, .navigation, .skin { behavior: url(iepngfix.htc) }
 .navigation { behavior: url("csshover3.htc"); } 
 
 .navigation ul ul li{clear:both;}
@@ -11,3 +11,5 @@ img, .navigation { behavior: url(iepngfix.htc) }
 
 .navigation li ul li{background:#000;}
 .navigation li ul li:hover{background:#003;}
+
+.
