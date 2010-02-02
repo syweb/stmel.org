@@ -21,7 +21,7 @@ filter:
 <h3>  Open House</h3>
   <p>St. Mel School hosts its annual Open House on a Sunday in late January to kick off Catholic Schools Week. At this time, prospective and school families have the opportunity to learn about the school and its mission to provide a high-quality, values based education. Open House will occur after the 9:30 a.m. Mass. All classrooms are open including the Science Lab, the Technology Lab and the Extension Program. In addition, the school hosts an annual Book Fair and Bake Sale along with an Art Show highlighting student artwork that has been produced by the Art Docent Program.</p>
   <h3>December - March</h3>
-<p>  St. Mel School begins to accept applications for the following school year in December by filling out the New Family Registration Form. Please contact our school secretary, Jane Lumsargis, at office@stmelschool.org or (916) 967-2814 to request a New Family Registration Form.</p>
+<p>  St. Mel School begins to accept applications for the following school year in December by filling out the New Family Registration Form. Please contact our school secretary, Jane Lumsargis, at <a href="mailto:office@stmelschool.org">office@stmelschool.org</a> or (916) 967-2814 to request a New Family Registration Form.</p>
   <h3>December - April</h3>
 <p>  All students applying for admissions to St. Mel School are evaluated to verify appropriate grade placement. Many applicants take advantage of our School Visitation Days.</p>
   <h3>March</h3>
