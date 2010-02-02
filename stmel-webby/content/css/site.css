@@ -59,4 +59,5 @@ h2{border-bottom:1px solid #002c51;text-shadow:2px 2px 3px #000; color:#ddf;}
 .events li.first{border-top:none;}
 .events li.last{border-bottom:none;}
 
-
+/*MAP*/
+.google-map iframe{border:6px solid #003684; -moz-border-radius:4px; -webkit-border-radius:4px}

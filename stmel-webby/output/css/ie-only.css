@@ -12,4 +12,4 @@ img, .navigation, .skin { behavior: url(iepngfix.htc) }
 .navigation li ul li{background:#000;}
 .navigation li ul li:hover{background:#003;}
 
-.
+.skin {background:none!important;}
