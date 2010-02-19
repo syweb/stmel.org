@@ -24,15 +24,6 @@ filter:
     <h3>Events & Announcements</h3>
     <p>Please join us for the following community events:</p>
     <ul>
-      <li><strong>February 18</strong> 
-        &mdash; Admissions-Coffee-School Tour for prospective parents will be on  <strong>Thursday, February 18, 2010 -  9:00-10:30 a.m</strong>.  We invite you to come take a tour of our gated campus, peek into each classroom and see us in action, the Technology Center, the Science Lab, Library, Extension Program, gymnasium, cafeteria and playground.   Admission information along with tuition assistance information will be available.  Mrs. Janet Nagel, School Principal, will be there to answer any and all of your questions including “How can I afford tuition?”  Additionally, you will learn about our curriculum standards, Student Learning Expectations, co-curricular, extra-curricular, and athletic programs.  Come experience the dividends of a Catholic education at St. Mel School currently in our 50th year of Integrating Faith with Academic Excellence:  Faith, Knowledge, Discipline and Morals.<br />
-        
-        <em class="highlight">
-          Kindly R.S.V.P.  by Wednesday, February 17, 2010. <br />
-          (916)967-2814 or office@stmelschool.org
-        </em>
-      </li>
-      <li><strong>February 7 – 8am – 11am </strong> &mdash; Boy Scout troop 217 Country Breakfast in Doheny Hall.  Join us as we celebrate 100 years of Scouting in America and Troop 217’s 20th Anniversary.  $6 donation per person.</li>
       <li><strong>February 19 and 20</strong> &mdash; St. Mel Crab Feed</li>
       <li><strong>April 17</strong> &mdash; “St. Mel Drive In”  Annual School Benefit Auction</li>
       <li class="last"><strong>April 27-30</strong> &mdash; St. Mel School presents The Sound of Music</li>
