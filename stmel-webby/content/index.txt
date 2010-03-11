@@ -21,12 +21,9 @@ filter:
 </p>
   </div><!-- col col-large end -->
   <div class="events col special">
-    <h3>Events & Announcements</h3>
+    <h3>Events &amp; Announcements</h3>
     <p>Please join us for the following community events:</p>
     <ul>
-    
-       <!-- <li><strong>March 2</strong> &mdash; Open house/tour and coffee – verbiage is same as the event that occurred on 2/18.  Please change date and repost.  If you no longer have the verbiage, let me know and I will send it.</li> -->
-        
       
       <li>
       <strong>April 17</strong> &mdash; “St. Mel Drive In”  Annual School Benefit Auction<br/>
@@ -45,6 +42,10 @@ filter:
       <li><strong>April 27-30</strong> &mdash; St. Mel School presents The Sound of Music</li>
       <li class="last"><strong>May 12</strong> &mdash; St. Mel’s Annual Jog-A-Thon</li>
     </ul>
+  </div><!-- col end -->
+
+  <div class="events col special">
+    <div class="facebook"><a href="http://facebook.com/stmelschool">Visit us on facebook</a></div>
   </div><!-- col end -->
   <div class="clear"></div>
   <br />
