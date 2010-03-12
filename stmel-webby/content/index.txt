@@ -19,6 +19,7 @@ filter:
 <p>
 	We are dedicated to serving our student body and their families by providing an education grounded in the Catholic tradition.  We want our graduates to become valuable members of the greater community by integrating faith with academic excellence.  
 </p>
+<br/><br/><br/><br/><br/><br/><br/>
   </div><!-- col col-large end -->
   <div class="events col special">
     <h3>Events &amp; Announcements</h3>
@@ -45,7 +46,16 @@ filter:
   </div><!-- col end -->
 
   <div class="events col special">
-    <div class="facebook"><a href="http://facebook.com/stmelschool">Visit us on facebook</a></div>
+    <div class="facebook">
+      <a href="http://facebook.com/stmelschool">
+        <img src="images/facebook_icon.png"/>
+      </a>
+      <div class="visit-fb">
+        <a href="http://facebook.com/stmelschool">
+          Visit us on facebook
+        </a>
+      </div>
+    </div>
   </div><!-- col end -->
   <div class="clear"></div>
   <br />
