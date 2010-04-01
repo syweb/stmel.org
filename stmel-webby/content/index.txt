@@ -31,7 +31,7 @@ filter:
         <table cellspacing="0" cellpadding="0" border="0">
           <tr>
             <td><img src="images/st-mel-drivein.gif"></td>
-            <td style="padding:5px"><strong>April 17</strong> &mdash; “St. Mel Drive In”  Annual School Benefit Auction</td>
+            <td style="padding:5px"><strong>April 17</strong> &mdash; “St. Mel Drive In”  Annual School Benefit Auction. Buy your tickets for both the auction and raffle by calling Tiffany Madrid at 916.764.4569.</td>
           </tr>
         </table>
       <script language="JavaScript">
@@ -45,8 +45,11 @@ filter:
       FinishMessage = "It is finally here!";
       </script>
       <script language="JavaScript" src="js/countdown.js"></script>
+      <p></p>
       </li>
       <li><strong>April 27-30</strong> &mdash; St. Mel School presents The Sound of Music</li>
+      <li><strong>May 4</strong> &mdash; Registration for the 2010-2011 School Year.  3:00-5:30 pm in the Small Hall. Registration paperwork may also be submitted to the school office at any time.</li>
+      
       <li class="last"><strong>May 12</strong> &mdash; St. Mel’s Annual Jog-A-Thon</li>
     </ul>
   </div><!-- col end -->
