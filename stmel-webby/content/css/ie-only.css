@@ -13,3 +13,4 @@ img, .navigation, .skin { behavior: url(iepngfix.htc) }
 .navigation li ul li:hover{background:#003;}
 
 .skin {background:none!important;}
+.footer{padding:30px 0 20px 125px;}
