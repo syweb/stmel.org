@@ -1,0 +1,73 @@
+---
+title:       Home Page
+created_at:  2008-08-02 14:06:40.000000 -06:00
+filter:
+  - erb
+---
+   
+<div class="header" style="background:url('images/header/home.jpg') no-repeat 0 0;">
+  <div class="address" style="color:#000077;  left:365px;  position:absolute;  text-align:right; font-size:12px;  text-shadow:1px 1px 1px #FFFFFF;  top:175px;">
+    4745 Pennsylvania Avenue <br/>
+    Fair Oaks, CA 95628 <br/>
+  </div>
+</div>
+<div class="content">
+  <h2>Welcome to St. Mel School</h2>
+  <div class="col col-large">
+    <p>St. Mel School is proud to carry on the traditions from our founders, the Sisters of Mercy.  Since the doors opened 50 years ago, St. Mel School has graduated outstanding young students on their way to being successful high school students.  We are a TK- 8th grade Catholic co-educational elementary and junior high school located in Fair Oaks, California.  The school is accredited by the Western Catholic Educational Association and the Western Association of Schools and Colleges.  Our enrollment for the 2009-2010 academic school year is 275 students.</p>
+
+<p>
+	We are dedicated to serving our student body and their families by providing an education grounded in the Catholic tradition.  We want our graduates to become valuable members of the greater community by integrating faith with academic excellence.  
+</p>
+<img src="images/WCEA-Webstamp.png" alt="WCEA Accredited School" align="left"/>
+<p>St. Mel Catholic School is accredited by the Western Catholic Educational Association (WCEA).  WCEA accredits Catholic elementary and secondary schools in nine western states (26 (arch) dioceses) and the US Territory of Guam.  WCEA co-accredits and is in partnership with three Regional agencies (WASC, NAAS, NCA CASI) and two private agencies (CAIS and HAIS).   WCEA began in 1957 in San Francisco and has a long and successful history of assisting school improvement through the accreditation process.</p>
+<br style="clear:both"/><br/><br/><br/><br/><br/><br/>
+  </div><!-- col col-large end -->
+  <div class="events col special">
+    <h3>Events &amp; Announcements</h3>
+    <p>Please join us for the following community events:</p>
+    <ul>
+      
+      <li>
+        <table cellspacing="0" cellpadding="0" border="0">
+          <tr>
+            <td><img src="images/st-mel-drivein.gif"></td>
+            <td style="padding:5px"><strong>April 17</strong> &mdash; “St. Mel Drive In”  Annual School Benefit Auction. Buy your tickets for both the auction and raffle by calling Tiffany Madrid at 916.764.4569.</td>
+          </tr>
+        </table>
+      <script language="JavaScript">
+      TargetDate = "04/17/2010 5:00 PM";
+      BackColor = "transparent";
+      ForeColor = "#fff;";
+      CountActive = true;
+      CountStepper = -1;
+      LeadingZero = true;
+      DisplayFormat = "Starts in: %%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds.";
+      FinishMessage = "It is finally here!";
+      </script>
+      <script language="JavaScript" src="js/countdown.js"></script>
+      <p></p>
+      </li>
+      <li><strong>April 27-30</strong> &mdash; St. Mel School presents The Sound of Music</li>
+      <li><strong>May 4</strong> &mdash; Registration for the 2010-2011 School Year.  3:00-5:30 pm in the Small Hall. Registration paperwork may also be submitted to the school office at any time.</li>
+      
+      <li class="last"><strong>May 12</strong> &mdash; St. Mel’s Annual Jog-A-Thon</li>
+    </ul>
+  </div><!-- col end -->
+
+  <div class="events col special">
+    <div class="facebook">
+      <a href="http://facebook.com/stmelschool">
+        <img src="images/facebook_icon.png"/>
+      </a>
+      <div class="visit-fb">
+        <a href="http://facebook.com/stmelschool">
+          Visit us on facebook
+        </a>
+      </div>
+    </div>
+  </div><!-- col end -->
+  <div class="clear"></div>
+  <br />
+</div><!-- Content end -->
+    
