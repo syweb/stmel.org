@@ -31,20 +31,17 @@ filter:
         <table cellspacing="0" cellpadding="0" border="0">
           <tr>
             <td><img src="images/st-mel-drivein.gif"></td>
-            <td style="padding:5px"><strong>April 17</strong> &mdash; “St. Mel Drive In”  Annual School Benefit Auction. Buy your tickets for both the auction and raffle by calling Tiffany Madrid at 916.764.4569.</td>
+            <td style="padding:5px"><strong>April 17</strong> &mdash; “St. Mel Drive In”  Annual School Benefit Auction. </td>
           </tr>
         </table>
-      <script language="JavaScript">
-      TargetDate = "04/17/2010 5:00 PM";
-      BackColor = "transparent";
-      ForeColor = "#fff;";
-      CountActive = true;
-      CountStepper = -1;
-      LeadingZero = true;
-      DisplayFormat = "Starts in: %%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds.";
-      FinishMessage = "It is finally here!";
-      </script>
-      <script language="JavaScript" src="js/countdown.js"></script>
+        <p>The St. Mel Drive In Auction was a huge success thanks to the donations and support of many businesses and individuals in our community! Your generous donations helped make our event possible!</p><p> We would like to give an extra word of thanks to:</p>
+        <p style="padding:0 0 0 15px; font-weight:bold;">
+          Howard Cantrell and East Bay Restaurant Supply<br/>
+          The Balloon Butler<br/>
+          Beverly Mills<br/>
+          Jimmy and Patty Nye<br/>
+          John Liljegren and A Smarter Home<br/>
+        </p>
       <p></p>
       </li>
       <li><strong>April 27-30</strong> &mdash; St. Mel School presents The Sound of Music</li>
