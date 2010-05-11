@@ -27,25 +27,7 @@ filter:
     <p>Please join us for the following community events:</p>
     <ul>
       
-      <li>
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tr>
-            <td><img src="images/st-mel-drivein.gif"></td>
-            <td style="padding:5px"><strong>April 17</strong> &mdash; “St. Mel Drive In”  Annual School Benefit Auction. </td>
-          </tr>
-        </table>
-        <p>The St. Mel Drive In Auction was a huge success thanks to the donations and support of many businesses and individuals in our community! Your generous donations helped make our event possible!</p><p> We would like to give an extra word of thanks to:</p>
-        <p style="padding:0 0 0 15px; font-weight:bold;">
-          Howard Cantrell and East Bay Restaurant Supply<br/>
-          The Balloon Butler<br/>
-          Beverly Mills<br/>
-          Jimmy and Patty Nye<br/>
-          John Liljegren and A Smarter Home<br/>
-        </p>
-      <p></p>
-      </li>
-      <li><strong>April 27-30</strong> &mdash; St. Mel School presents The Sound of Music</li>
-      <li><strong>May 4</strong> &mdash; Registration for the 2010-2011 School Year.  3:00-5:30 pm in the Small Hall. Registration paperwork may also be submitted to the school office at any time.
+      <li>Registration for the 2010-2011 School Year.  3:00-5:30 pm in the Small Hall. Registration paperwork may also be submitted to the school office at any time.
          <a href="files/Registration-Packet-2010-2011.doc" style="color:#fff;text-decoration:underline">Download Registration Packet</a>
       </li>
       
