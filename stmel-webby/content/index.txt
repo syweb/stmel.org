@@ -32,7 +32,7 @@ filter:
       </li>
       
       <li class="last"><strong>May 12</strong> &mdash; St. Mel’s Annual Jog-A-Thon</li>
-      <li><a href="files/2010-2011-calendar.docx" style="color:#fff;text-decoration:underline">Download 2010-2011 Annual School Calendar</a></li>
+      <li><a href="files/2010_2011_annual_calendar.pdf" style="color:#fff;text-decoration:underline">Download 2010-2011 Annual School Calendar</a></li>
     </ul>
   </div><!-- col end -->
 
