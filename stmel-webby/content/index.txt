@@ -32,18 +32,16 @@ filter:
       </li>
       
       <li>
-        Support our school by purchasing SCRIP!<br/>
+        <strong>Support our school by purchasing SCRIP!</strong><br/>
         SCRIP is available in the school office this summer-<br/>
         June - Tue, Wed, Thurs from 8 am - 2 pm<br/>
         July - Office is closed<br/>
         August 10th - 13th 8 am - 2 pm<br/>
       </li>
       <li>
-        Kindergarten Open House<br/>
-        Date:	Wed. August 11th <br/>
-        Time: drop by anytime from 5:30 to 7 pm<br/>
-        Where: Room K<br/><br/>
-        What to Wear: your favorite Hawaiian shirt or outfit Please bring: your school supplies and a big Aloha! The supply list will be posted on the website by Aug. 1st.
+        <strong>A Taste of St. Mel</strong><br/>
+        Enjoy a sampling of wines from around the world, beer and outstanding food, live entertainment as well as a silent auction. Tickets are $30.  <a href="contact-us.html" style="color:#fff;text-decoration:underline;">Contact the school office</a> for ticket information.<br/>
+        August 28th  5:30p.m.- 9:30p.m. 
       </li>
             <li style="height:20px"><a href="files/2010_2011_annual_calendar.pdf" style="color:#fff; background:url(images/calendar_icon.gif) no-repeat; padding:10px 0 10px 55px;min-height:40px;">Download 2010-2011 Annual School Calendar</a></li>
             <li style="height:20px"><a href="files/Supply_list_Gr_1_4.xls" style="color:#fff;background:url(images/excel_icon.gif) no-repeat;padding:10px 0 10px 55px;min-height:40px;"> Supply lists for 2010-2011 Grades 1-4</a></li>
