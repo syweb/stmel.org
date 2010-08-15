@@ -32,13 +32,6 @@ filter:
       </li>
       
       <li>
-        <strong>Support our school by purchasing SCRIP!</strong><br/>
-        SCRIP is available in the school office this summer-<br/>
-        June - Tue, Wed, Thurs from 8 am - 2 pm<br/>
-        July - Office is closed<br/>
-        August 10th - 13th 8 am - 2 pm<br/>
-      </li>
-      <li>
         <strong>A Taste of St. Mel</strong><br/>
         Enjoy a sampling of wines from around the world, beer and outstanding food, live entertainment as well as a silent auction. Tickets are $30.  <a href="contact-us.html" style="color:#fff;text-decoration:underline;">Contact the school office</a> for ticket information.<br/>
         August 28th  5:30p.m.- 9:30p.m. 
