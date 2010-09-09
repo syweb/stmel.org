@@ -24,23 +24,21 @@ filter:
   </div><!-- col col-large end -->
   <div class="events col special">
     <h3>Events &amp; Announcements</h3>
-    <p>Please join us for the following community events:</p>
     <ul>
-      
-      <li>Applications being accepted for the 2010-2011 school year.
-         <a href="files/Registration-Packet-2010-2011.doc" style="color:#fff;text-decoration:underline">Download Registration Packet</a>
-      </li>
-      
-      <li>
-        <strong>A Taste of St. Mel</strong><br/>
-        Enjoy a sampling of wines from around the world, beer and outstanding food, live entertainment as well as a silent auction. Tickets are $30.  <a href="contact-us.html" style="color:#fff;text-decoration:underline;">Contact the school office</a> for ticket information.<br/>
-        August 28th  5:30p.m.- 9:30p.m. 
-      </li>
-            <li style="height:20px"><a href="files/2010_2011_annual_calendar.pdf" style="color:#fff; background:url(images/calendar_icon.gif) no-repeat; padding:10px 0 10px 55px;min-height:40px;">Download 2010-2011 Annual School Calendar</a></li>
-            <li style="height:20px"><a href="files/Supply_list_Gr_1_4.xls" style="color:#fff;background:url(images/excel_icon.gif) no-repeat;padding:10px 0 10px 55px;min-height:40px;"> Supply lists for 2010-2011 Grades 1-4</a></li>
-            <li style="height:20px"><a href="files/Supply_list_Gr_5_8.xls" style="color:#fff;background:url(images/excel_icon.gif) no-repeat;padding:10px 0 10px 55px;min-height:40px;"> Supply lists for 2010-2011 Grades 5-8</a></li>
-            <li style="height:20px"><a href="files/Supply_list_kg.pdf" style="color:#fff;background:url(images/pdf_icon.gif) no-repeat;padding:10px 0 10px 55px;min-height:40px;"> Supply lists for 2010-2011 Kindergarten</a></li>
-            <li style="height:20px"><a href="files/Supply_list_tk.pdf" style="color:#fff;background:url(images/pdf_icon.gif) no-repeat;padding:10px 0 10px 55px;min-height:40px;"> Supply lists for 2010-2011 TK</a></li>
+    	<li>
+			<strong>September 17</strong><br/> Pre Chicken Festival BBQ and Egg Dance 5:30-10 pm 4238 Main
+			Street, Fair Oaks $25 per ticket. Contact the school office for details and
+			to purchase tickets.
+		</li>
+		<li>
+			<strong>October 2</strong> <br/>  2 pm St. Mel Harvest Festival. Don't miss the bounce houses,
+			rib cook off, lip sync contest other great family fun!
+		</li>
+		<li>
+			<strong>November 6</strong> <br/>  "A Night at the Copacabana" - St. Mel's annual benefit auction.
+			Where education, the students and a faith-filled community are always the
+			fashion. Contact the school office for details
+		</li>
     </ul>
   </div><!-- col end -->
 
