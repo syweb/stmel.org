@@ -63,6 +63,8 @@ h2{border-bottom:1px solid #002c51;text-shadow:2px 2px 3px #000; color:#ddf;}
 .google-map iframe{border:6px solid #003684; -moz-border-radius:4px; -webkit-border-radius:4px}
 /*countdown*/
 #cntdwn {font-size:130%; font-family:Arial;}
+.countdown_container{padding:5px 0;}
+
 .facebook{padding:0 0 25px 0 ;}
 .facebook a{color:#fff;}
 .facebook a:hover{color:#fff;}

@@ -38,6 +38,20 @@ filter:
 			<strong>November 6</strong> <br/>  "A Night at the Copacabana" - St. Mel's annual benefit auction.
 			Where education, the students and a faith-filled community are always the
 			fashion. Contact the school office for details
+			
+			<div class="countdown_container">
+			  <script language="JavaScript">
+          TargetDate = "11/06/2010 5:00 AM";
+          BackColor = "transparent";
+          ForeColor = "#ccc;";
+          CountActive = true;
+          CountStepper = -1;
+          LeadingZero = true;
+          DisplayFormat = "Starts in: %%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds.";
+          FinishMessage = "It is finally here!";
+        </script>
+        <script language="JavaScript" src="js/countdown.js"></script>
+      </div>
 		</li>
     </ul>
   </div><!-- col end -->
