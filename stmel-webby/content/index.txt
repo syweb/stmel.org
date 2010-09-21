@@ -25,11 +25,6 @@ filter:
   <div class="events col special">
     <h3>Events &amp; Announcements</h3>
     <ul>
-    	<li>
-			<strong>September 17</strong><br/> Pre Chicken Festival BBQ and Egg Dance 5:30-10 pm 4238 Main
-			Street, Fair Oaks $25 per ticket. Contact the school office for details and
-			to purchase tickets.
-		</li>
 		<li>
 			<strong>October 2</strong> <br/>  2 pm St. Mel Harvest Festival. Don't miss the bounce houses,
 			rib cook off, lip sync contest other great family fun!
