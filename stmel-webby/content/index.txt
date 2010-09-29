@@ -47,6 +47,8 @@ filter:
         </script>
         <script language="JavaScript" src="js/countdown.js"></script>
       </div>
+      <br/>
+      <img src="images/copacabana_girl.jpg"/>
 		</li>
     </ul>
   </div><!-- col end -->
