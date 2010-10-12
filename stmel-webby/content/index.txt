@@ -25,10 +25,7 @@ filter:
   <div class="events col special">
     <h3>Events &amp; Announcements</h3>
     <ul>
-		<li>
-			<strong>October 2</strong> <br/>  2 pm St. Mel Harvest Festival. Don't miss the bounce houses,
-			rib cook off, lip sync contest other great family fun!
-		</li>
+
 		<li>
 			<strong>November 6</strong> <br/>  "A Night at the Copacabana" - St. Mel's annual benefit auction.
 			Where education, the students and a faith-filled community are always the
