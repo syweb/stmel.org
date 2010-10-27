@@ -47,6 +47,11 @@ filter:
       <br/>
       <img src="images/copacabana_girl.jpg"/>
 		</li>
+		<li>
+		  <strong>November 17 (8:30 to 11:00 a.m)</strong> <br/>
+		  <a href="files/Prospective_Parent_Coffee_Tour.doc">Prospective Parent Coffee &amp; Tour</a>
+      
+		</li>
     </ul>
   </div><!-- col end -->
 
