@@ -28,7 +28,7 @@ filter:
   possible with a grant awarded by the Italian Consulate in San Francisco and 
   administered by the Italian Cultural Society.
 </p>
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   </div><!-- col col-large end -->
   <div class="events col special">
     <h3>Events &amp; Announcements</h3>
@@ -62,6 +62,35 @@ filter:
 		</li>
     </ul>
   </div><!-- col end -->
+	
+	<div class="events col special">
+    <h3>Why St. Mel School?</h3>
+		<ul>
+			<li>
+			"My wife, Cristina, and
+			I appreciate the fact that in spite of the academic challenges and
+			increasing demands placed on teachers to raise test scores St. Mel’s has not
+			lost the focus of teaching virtue and helping us parents to develop good
+			character in our kids." <a href="why-stmelschool.html">More...</a>
+				<br/>
+				<strong>Dr. Carlos Solis</strong>
+			</li>
+			<li>
+				"We chose St. Mel Catholic School because we wanted an environment where our
+				children are taught the same morals we teach at home; and where they are
+				challenged academically." <a href="why-stmelschool.html">More...</a>
+				<br/>
+				<strong>Matt & Stephenie Walbeck</strong>
+			</li>
+			<li>
+				"For us, we were introduced to St. Mel’s by my brother who has three children
+				that attended St. Mel’s. All three kids have received a very strong
+				education" <a href="why-stmelschool.html">More...</a>
+				<br/>
+				<strong>Charly and Sue Haddad</strong>
+			</li>
+		</ul>
+  </div>
 
   <div class="events col special">
     <div class="facebook">
