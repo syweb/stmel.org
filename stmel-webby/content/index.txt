@@ -64,7 +64,7 @@ filter:
   </div><!-- col end -->
 	
 	<div class="events col special">
-    <h3>Why St. Mel School?</h3>
+    <h3>Why St. Mel School</h3>
 		<ul>
 			<li>
 			"My wife, Cristina, and
