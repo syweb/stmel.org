@@ -8,21 +8,7 @@ filter:
 <h2>Why St. Mel School</h2>
 
 <div class="col col-x-large">
-	
-	<object width="560" height="340"><param name="movie"
-	value="http://www.youtube.com/v/JeUpjrthuHI?fs=1
-
-	=0x2b405b&amp;color2=0x6b8ab6>
-	&amp;hl=en_US&amp;rel=0&amp;color1=0x2b405b&amp;color2=0x6b8ab6"></param><pa
-	ram name="allowFullScreen" value="true"></param><param
-	name="allowscriptaccess" value="always"></param><embed
-	src="http://www.youtube.com/v/JeUpjrthuHI?fs=1
-
-	=0x2b405b&amp;color2=0x6b8ab6>
-	&amp;hl=en_US&amp;rel=0&amp;color1=0x2b405b&amp;color2=0x6b8ab6"
-	type="application/x-shockwave-flash" allowscriptaccess="always"
-	allowfullscreen="true" width="560" height="340"></embed></object>
-	
+  <object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/JeUpjrthuHI?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/JeUpjrthuHI?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
 	<p></p>
 	
 	<h3>Testimonials</h3>
@@ -78,7 +64,7 @@ filter:
 	another and the basic moral values of life. Our children have learned life
 	skills at St. Mel that they will carry with them throughout life.</p>
 	<p>St. Mel Catholic School has truly been a blessing to our family!</p>
-	<p><strong>Matt & Stephenie Walbeck</strong></p>
+	<p><strong>Matt &amp; Stephenie Walbeck</strong></p>
 	
 	<div class="hrule"></div>
 	<p>Selecting the right school for kids is a difficult decision to make.
