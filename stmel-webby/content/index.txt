@@ -35,30 +35,32 @@ filter:
     <ul>
 
 		<li>
-			<strong>November 6</strong> <br/>  "A Night at the Copacabana" - St. Mel's annual benefit auction.
-			Where education, the students and a faith-filled community are always the
-			fashion. Contact the school office for details
-			
-			<div class="countdown_container">
-			  <script language="JavaScript">
-          TargetDate = "11/06/2010 5:30 PM";
-          BackColor = "transparent";
-          ForeColor = "#ccc;";
-          CountActive = true;
-          CountStepper = -1;
-          LeadingZero = true;
-          DisplayFormat = "Starts in: %%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds.";
-          FinishMessage = "It is finally here!";
-        </script>
-        <script language="JavaScript" src="js/countdown.js"></script>
-      </div>
-      <br/>
-      <img src="images/copacabana_girl.jpg"/>
-		</li>
-		<li>
 		  <strong>November 17 (8:30 to 11:00 a.m)</strong> <br/>
 		  <a href="files/Prospective_Parent_Coffee_Tour.doc">Prospective Parent Coffee &amp; Tour</a>
+		</li>
       
+
+
+
+		<li>
+      <strong>11/22-11/26 Thanksgiving Break - School Closed </strong>
+  	</li>
+
+    <li>
+      <strong>12/17-1/3 Christmas Break - School Closed </strong>
+    </li>
+
+    <li>
+      <strong>1/30/11 St. Mel School Open House  </strong>
+    </li>
+
+    <li>
+      <strong>2/11/11 and 2/12/11 Crab Feed </strong>
+    </li>
+
+
+
+
 		</li>
     </ul>
   </div><!-- col end -->
