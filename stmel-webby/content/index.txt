@@ -38,13 +38,7 @@ filter:
 		  <strong>November 17 (8:30 to 11:00 a.m)</strong> <br/>
 		  <a href="files/Prospective_Parent_Coffee_Tour.doc">Prospective Parent Coffee &amp; Tour</a>
 		</li>
-      
-
-
-
-		<li>
-      <strong>11/22-11/26 Thanksgiving Break - School Closed </strong>
-  	</li>
+    
 
     <li>
       <strong>12/17-1/3 Christmas Break - School Closed </strong>
