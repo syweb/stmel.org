@@ -44,17 +44,27 @@ filter:
     
     <li>
       <strong>2/11/11 and 2/12/11 Crab Feed </strong>
-			<!--<br/>
-			<img src="images/crab-feed.png"/>-->
+			<br/>
+			<img src="images/crab-feed.png"/>
 			
 			<br/>please contact the school office for details and ticket
 			information 967-2814
     </li>
 	
 		<li>
-			<strong>3/5 Casino Night<strong>
+			<strong>3/5/11 Casino Night<strong>
 		
 		</li>
+		
+		<li>
+      <strong>5/13/11 Passport to Gold River Wine Tasting Fundraiser</strong>
+			<br/>
+			<img src="images/wine-tasting.png"/>
+			
+			
+    </li>
+		
+		
 		
     </ul>
   </div><!-- col end -->
