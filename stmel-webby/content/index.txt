@@ -3,8 +3,9 @@ title:       Home Page
 created_at:  2008-08-02 14:06:40.000000 -06:00
 filter:
   - erb
+
 ---
-   
+
 <div class="header" style="background:url('images/header/home.jpg') no-repeat 0 0;">
   <div class="address" style="color:#000077;  left:362px;  position:absolute;  text-align:right; font-size:12px;  text-shadow:1px 1px 1px #FFFFFF;  top:175px;">
     4745 Pennsylvania Avenue <br/>
@@ -43,10 +44,12 @@ filter:
 		</li>
     
     <li>
-      <strong>2/11/11 and 2/12/11 Crab Feed </strong>
+      <strong>2/11/11 and 2/12/11 Crab Feed</strong>
 			<br/>
-			<img src="images/crab-feed.png"/>
 			
+			<img src="images/crab-feed.png"/>
+			<br/>
+			<a href="files/ticket_order_form.pdf" target="_blank">Download ticket order form.</a> 
 			<br/>Please contact the school office for details and ticket
 			information 967-2814
     </li>
@@ -115,4 +118,35 @@ filter:
   <div class="clear"></div>
   <br />
 </div><!-- Content end -->
+<!-- lightbox Start-->
+<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+
+<script src="js/prototype.js" type="text/javascript"></script>
+<script src="js/scriptaculous.js?load=effects,builder" type="text/javascript"></script>
+<script src="js/lightbox.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+  // <![CDATA[
+
+      // Automagically load Lightbox on Page Load - by Bramus! (http://www.bram.us/)
+
+      // Code modded from http://www.huddletogether.com/forum/comments.php?DiscussionID=1269&page=1#Item_0
+
+      function autoFireLightbox() {
+          //Check if location.hash matches a lightbox-anchor. If so, trigger popup of image.
+          setTimeout(function() {
+							window.location = 'index.html#image001'
+              if(document.location.hash && $(document.location.hash.substr(1)).rel.indexOf('lightbox')!=-1) {
+                  myLightbox.start($(document.location.hash.substr(1)));
+              }},
+              250
+          );
+      }
+      Event.observe(window, 'load', autoFireLightbox, false);
+
+  // ]]>
+</script>
+<!-- lightbox End-->
+<a href="images/crab.png" rel="lightbox" id="image001" style="display:none;"></a>
     
