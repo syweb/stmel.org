@@ -15,7 +15,7 @@ filter:
 <div class="content">
   <h2>Welcome to St. Mel School</h2>
   <div class="col col-large">
-    <p>St. Mel School is proud to carry on the traditions from our founders, the Sisters of Mercy.  Since the doors opened 50 years ago, St. Mel School has graduated outstanding young students on their way to being successful high school students.  We are a TK- 8th grade Catholic co-educational elementary and junior high school located in Fair Oaks, California.  The school is accredited by the Western Catholic Educational Association and the Western Association of Schools and Colleges.  Our enrollment for the 2009-2010 academic school year is 275 students.</p>
+    <p>St. Mel School is proud to carry on the traditions from our founders, the Sisters of Mercy.  Since the doors opened 50 years ago, St. Mel School has graduated outstanding young students on their way to being successful high school students.  We are a TK- 8th grade Catholic co-educational elementary and junior high school located in Fair Oaks, California.  The school is accredited by the Western Catholic Educational Association and the Western Association of Schools and Colleges.  Our enrollment for the 2010-2011 academic school year is 265 students.</p>
 
 <p>
 	We are dedicated to serving our student body and their families by providing an education grounded in the Catholic tradition.  We want our graduates to become valuable members of the greater community by integrating faith with academic excellence.  
@@ -53,7 +53,7 @@ filter:
       <strong>2/11/11 and 2/12/11 Crab Feed</strong>
 			<br/>
 			
-			<img src="images/crab-feed.png"/>
+			<a rel="lightbox" href="images/crab.png"><img src="images/crab-feed.png"/></a>
 			<br/>
 			<a href="files/ticket_order_form.pdf" target="_blank">Download ticket order form.</a> 
 			<br/>Please contact the school office for details and ticket
@@ -68,7 +68,7 @@ filter:
 		<li>
       <strong>5/13/11 Passport to Gold River Wine Tasting benefit</strong>
 			<br/>
-			<img src="images/wine-tasting.png"/><br/>
+			<a rel="lightbox" href="images/wine-tasting-big.jpg"><img src="images/wine-tasting.png"/></a><br/>
 			Contact Lori Estipular at (916) 849-0336 or
 			<a href="mailto:lorie@mbac.com">lorie@mbac.com</a> for ticket information.
 			

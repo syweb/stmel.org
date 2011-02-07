@@ -1,0 +1,24 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header" style="background:url(images/header/principal.jpg) no-repeat 0 0;"></div>
+<h2>Principal's Newsletters</h2>
+<div class="col col-x-large">
+	<h3>Newsletter 2010</h3>
+	<ul>
+		<li><a href="files/newsletter_6.10.doc">Newsletter 06, 2010 </a></li>
+		
+	</ul>
+	<h3>Newsletter 2009</h3>
+	<ul>
+		
+		<li <a href="files/newsletter_12.09.doc">Newsletter 12, 2009 </a></li>
+		<li <a href="files/newsletter_8.09.doc">Newsletter 08, 2009 </a></li>
+	</ul>
+  <div style="min-height:100px;"></div>
+  </div>
+<div class="clear"></div>
+
