@@ -18,7 +18,7 @@ filter:
 		<li <a href="files/newsletter_12.09.doc">Newsletter 12, 2009 </a></li>
 		<li <a href="files/newsletter_8.09.doc">Newsletter 08, 2009 </a></li>
 	</ul>
-  <div style="min-height:100px;"></div>
+  
   </div>
 <div class="clear"></div>
 
