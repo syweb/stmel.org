@@ -50,13 +50,23 @@ filter:
     <h3>Events &amp; Announcements</h3>
     <ul>
     <li>WE ARE NOW ACCEPTING APPLICATIONS FOR THE 2011-2012 SCHOOL YEAR</li>
-	
+		
 		<li>
 			<strong>3/5/11 St. Mel Casino Night</strong><br/>
 			Last year was such a great success, it’s happening again! Come out and join the crowd for a relaxed evening of fun and games at St. Mel.<br/> 
-			
-			
-		
+		</li>
+		<li>
+			<strong>3/24/11 - 9:00 a.m. Prospective Parent Coffee starting in the school
+		cafeteria.</strong><br/>
+		This meeting is for parents who are considering St. Mel School for their
+		children entering grades TK - Eighth. You will meet the principal and go on
+		a school tour which will include classrooms (TK-8th), science lab,
+		technology center, playground, gym, library, and Extension program. In
+		addition, you will learn about curriculum standards, student learning
+		expectations, co-curricular, extra-curricular, fine arts, and athletic
+		programs. Enrollment and tuition information will also be available, and
+		you will have the opportunity to meet new and current parents. Come for an
+		insightful hour.
 		</li>
 		
 		<li>
