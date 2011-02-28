@@ -68,7 +68,10 @@ filter:
 		you will have the opportunity to meet new and current parents. Come for an
 		insightful hour.
 		</li>
-		
+		<li><strong>3/ 28-31 /11 Parish Lenten Mission</strong>
+				<br/>
+				<a rel="lightbox" href="images/lenten_mission_flier-big.jpg"><img src="images/lenten_mission_flier.png"/></a>
+		</li>
 		<li>
       <strong>5/13/11 Passport to Gold River Wine Tasting benefit</strong>
 			<br/>
