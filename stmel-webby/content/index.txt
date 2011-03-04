@@ -56,8 +56,7 @@ filter:
 			Last year was such a great success, it’s happening again! Come out and join the crowd for a relaxed evening of fun and games at St. Mel.<br/> 
 		</li>
 		<li>
-			<strong>3/24/11 - 9:00 a.m. Prospective Parent Coffee starting in the school
-		cafeteria.</strong><br/>
+			<strong>3/24/11 - 9:00 a.m. Prospective Parent Coffee starting in the Science Lab.</strong><br/>
 		This meeting is for parents who are considering St. Mel School for their
 		children entering grades TK - Eighth. You will meet the principal and go on
 		a school tour which will include classrooms (TK-8th), science lab,
@@ -81,6 +80,12 @@ filter:
 			
 			
     </li>
+		
+		<li><strong>August 2011, St. Mel School is excited to offer a summer program</strong>
+			St. Mel School is excited to offer a summer program for
+			students entering kindergarten through 6th grade in August 2011.<br/>
+			<a href="files/summer_school_packet.pdf">Information and registration packet</a>
+		</li>
 		
 		
 		
