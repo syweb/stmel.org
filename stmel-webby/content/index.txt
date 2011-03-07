@@ -49,7 +49,12 @@ filter:
   <div class="events col special">
     <h3>Events &amp; Announcements</h3>
     <ul>
-    <li>WE ARE NOW ACCEPTING APPLICATIONS FOR THE 2011-2012 SCHOOL YEAR</li>
+    <li class="font-plus1">WE ARE NOW ACCEPTING APPLICATIONS FOR THE 2011-2012 SCHOOL YEAR</li>
+		<li class="font-plus1">St. Mel School is excited to
+		offer a summer program this year for students entering kindergarten through
+		6th grade in August 2011.<br/>
+			<a href="files/summer_school_packet.pdf">Information Packet</a>
+		</li>
 		
 		<li>
 			<strong>3/24/11 - 9:00 a.m. Prospective Parent Coffee starting in the Science Lab.</strong><br/>
@@ -73,17 +78,7 @@ filter:
 			<a rel="lightbox" href="images/wine-tasting-big.jpg"><img src="images/wine-tasting.png"/></a><br/>
 			Contact Lori Estipular at (916) 849-0336 or
 			<a href="mailto:lorie@mbac.com">lorie@mbac.com</a> for ticket information.
-			
-			
     </li>
-		
-		<li><strong>August 2011, St. Mel School is excited to offer a summer program</strong>
-			St. Mel School is excited to offer a summer program for
-			students entering kindergarten through 6th grade in August 2011.<br/>
-			<a href="files/summer_school_packet.pdf">Information and registration packet</a>
-		</li>
-		
-		
 		
     </ul>
   </div><!-- col end -->
