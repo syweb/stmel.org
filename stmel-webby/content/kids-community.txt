@@ -1,0 +1,49 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header" style="background:url(images/header/kids-community.jpg) no-repeat 0 0;"></div>
+<h2>Kids in the Community</h2>
+<div class="col col-x-large">
+  <p>St. Mel Catholic School perpetuates a strong sense of service in the local 
+	community and beyond. We strive to educate the whole child in an atmosphere 
+	of faith and academic excellence and a commitment to serve others. Our goal 
+	is to help each student become a faith-filled steward who recognizes their 
+	potential to make the world a better place. Our Student Learning 
+	Expectations focus on the development of self and the care of others.</p>
+	
+	<p>In order to achieve this goal we challenge our students, families, and 
+	faculty to use their gifts and talents to make a positive difference within 
+	the community. We believe that children who develop this philosophy will 
+	become confident faith-filled students, ethical people, and principled 
+	citizens. The measure of success for a St. Mel School alumnus is not 
+	determined by the amount of money one may earn, or how famous one may 
+	become, but rather one's ability and willingness to recognize Christ in 
+	others and make a difference in their lives.</p>
+	
+	<p>This vision was confirmed by Pope Benedict XVI while visiting New York, 
+	"Dear Brothers and Sisters, in the finest traditions of the Church in this 
+	country, may you also be the first friend of the poor, the homeless, the 
+	stranger, the sick and all who suffer. Act as beacons of hope, casting the 
+	light of Christ upon the world." This is also echoed in the words of 
+	Archbishop Oscar Romero, "We should not feel superior when we help anyone. 
+	Those who give materially, receive spiritually. There is an exchange of 
+	property that is understood only in a true spirit of poverty, which makes 
+	the poor feel that they are equal givers, and not inferior to the truth."</p>
+	
+	<p>It is for these reasons that all grades TK through Eighth participate in a 
+	variety of community service projects. Many of these service projects 
+	directly correlate to the curriculum and Student Learning Expectations. As 
+	a requirement for the sacrament of Confirmation, each student in the 7th and 
+	8th grade performs 20 hours of community service per school year. St. Mel 
+	School truly shines as a beacon of hope for many in our local and global 
+	community.</p>
+	
+	<p>Now in our 50th year, I am proud to say that St. Mel Catholic School 
+	continues to carry on the tradition of "service to others" handed down to us 
+	by the Sisters of Mercy.</p>
+</div>
+<div class="clear"></div> 
+
