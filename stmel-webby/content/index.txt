@@ -142,7 +142,7 @@ filter:
           setTimeout(function() {
 							window.location = 'index.html#image001'
               if(document.location.hash && $(document.location.hash.substr(1)).rel.indexOf('lightbox')!=-1) {
-                  //gmyLightbox.start($(document.location.hash.substr(1)));
+                  myLightbox.start($(document.location.hash.substr(1)));
               }},
               250
           );
@@ -152,5 +152,5 @@ filter:
   // ]]>
 </script>
 <!-- lightbox End-->
-<a href="images/casinonight2flyer.jpg" rel="lightbox" id="image001" style="display:none;"></a>
+<a href="images/prospective_parent_pop_up.docx.jpg" rel="lightbox" id="image001" style="display:none;"></a>
     
