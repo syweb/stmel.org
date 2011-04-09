@@ -1,0 +1,38 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header" style="background:url(images/header/building-future.jpg) no-repeat 0 0;"></div>
+<h2>Building the Future. One Child at a Time</h2>
+<div class="col col-x-large">
+  <p>At St. Mel School we strive to recognize and discover the uniqueness of 
+	every individual and believe that the fundamental richness of the world 
+	comes from the uniqueness of each one. St. Mel School seeks to immerse our 
+	students, actually and virtually, in a population of students, faculty, and 
+	staff that is diverse not only in terms of talents and abilities, but also 
+	in terms of ethnicity, gender, faith, economics, and cultural background. 
+	This brings a richness, breadth of exposure, and life experience that is 
+	necessary to a full-rounded education.</p>
+	
+	<p>The mission of St. Mel School is to promote academic excellence within a 
+	Catholic, faith-filled environment. A St. Mel education empowers students 
+	to become active, responsible Catholic adults whose lives reflect the Gospel 
+	values. The school's philosophy states that it is our job to provide 
+	opportunities for the development of right judgment and moral values, 
+	creative and critical thinking, and the acceptance of leadership roles. We 
+	focus on the successful development of the whole child and strive to meet 
+	the needs of all our students and families through various avenues to ensure 
+	that our student body is reflective of the community as a whole.</p>
+	
+	<p>Understanding and respecting differences, and being enriched by them, rather 
+	than threatened, is part of our educational task. If we can create an 
+	environment where our students are learning directly with and from others 
+	from different backgrounds, we will be enriching the students' lives and 
+	increasing understanding about the world in which they live. As Pope John 
+	Paul II said, "Faith leads us beyond ourselves. It leads us directly to 
+	God."</p>
+</div>
+<div class="clear"></div> 
+

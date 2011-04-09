@@ -1,0 +1,36 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header" style="background:url(images/header/whole-child.jpg) no-repeat 0 0;"></div>
+<h2>The Whole Child</h2>
+<div class="col col-x-large">
+  <p>Our collective goal at St. Mel Catholic School is to educate the whole child 
+	in an atmosphere of faith and academic excellence. I would like to share 
+	with you briefly how St. Mel School prepares each student to have the tools 
+	they need to fulfill their roles as good citizens, productive employees and 
+	compassionate leaders.</p>
+	
+	<p>First and foremost, we are committed to the safety of our students, staff 
+	and families. This is evidenced as you enter our gated campus. We 
+	consistently follow safety procedures and routines. Second, we practice 
+	good health habits and offer Physical Education classes from TK -through 8th 
+	grade that encourage healthy behaviors for a lifetime, and our Hot Lunch 
+	Program offers healthy food choices. Third, St. Mel School provides a 
+	well-rounded curriculum for all students including rigorous classes, 
+	resource programs, a wide array of co-curricular and extra-curricular 
+	activities and many athletic programs. Next, teachers use skills that make 
+	learning interesting and relevant for their students by incorporating 
+	various modalities to address different learning styles. Our curriculum 
+	supports creativity, critical thinking, problem solving and other 
+	twenty-first century skills. Finally, spiritual growth and faith 
+	development underscore everything we do for your child.</p>
+	
+	<p>I assure you St. Mel School is committed to integrating these components to 
+	achieve an optimal learning environment. A Catholic education at St. Mel 
+	School gives your child an extra "tool" in their tool box for life.</p>
+</div>
+<div class="clear"></div> 
+
