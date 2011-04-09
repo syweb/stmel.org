@@ -59,22 +59,6 @@ filter:
 		</li>
 		
 		<li>
-			<strong>3/24/11 - 9:00 a.m. Prospective Parent Coffee starting in the Science Lab.</strong><br/>
-		This meeting is for parents who are considering St. Mel School for their
-		children entering grades TK - Eighth. You will meet the principal and go on
-		a school tour which will include classrooms (TK-8th), science lab,
-		technology center, playground, gym, library, and Extension program. In
-		addition, you will learn about curriculum standards, student learning
-		expectations, co-curricular, extra-curricular, fine arts, and athletic
-		programs. Enrollment and tuition information will also be available, and
-		you will have the opportunity to meet new and current parents. Come for an
-		insightful hour.
-		</li>
-		<li><strong>3/ 28-31 /11 Parish Lenten Mission</strong>
-				<br/>
-				<a rel="lightbox" href="images/lenten_mission_flier-big.jpg"><img src="images/lenten_mission_flier.png"/></a>
-		</li>
-		<li>
 			<strong>4/ 14-15 /11 St. Mel School presents Bye Bye Birdie</strong><br/>
 			 6:30 pm- St. Mel School presents Bye Bye Birdie in Doheny Hall
 		</li>
