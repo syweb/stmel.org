@@ -51,7 +51,10 @@ filter:
   <div class="events col special">
     <h3>Events &amp; Announcements</h3>
     <ul>
-    <li class="font-plus1">WE ARE NOW ACCEPTING APPLICATIONS FOR THE 2011-2012 SCHOOL YEAR</li>
+    <li class="font-plus1">WE ARE NOW ACCEPTING APPLICATIONS FOR THE 2011-2012 SCHOOL YEAR<br/>
+    <a href="files/Registration_Packet_2011-2012.pdf">2011-2012 Registration Packet</a> 
+    
+    </li>
 		<li class="font-plus1">St. Mel School is excited to
 		offer a summer program this year for students entering kindergarten through
 		6th grade in August 2011.<br/>

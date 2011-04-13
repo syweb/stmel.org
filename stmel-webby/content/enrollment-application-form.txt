@@ -8,7 +8,7 @@ filter:
 <h2>Enrollment Application</h2>
 <div class="col col-x-large">
   <br />
-  <p><a href="files/Enrollment-Application.doc"  class="word">Download application form as a MS Word file.</a></p>
+  <p><a href="files/Registration_Packet_2011-2012.pdf">2011-2012 Registration Packet</a> </p>
 <br /><br /><br /><br /><br />
 </div>
 <div class="clear"></div> 
