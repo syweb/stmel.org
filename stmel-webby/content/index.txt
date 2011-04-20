@@ -69,6 +69,10 @@ filter:
 			<a href="files/summer_school_packet.pdf">Information Packet</a>
 		</li>
 		
+		<li class="font-plus1">Holy Week Mass Schedule<br/>
+		<a href="files/holy_week_schedule.pdf">Holy Week Mass Schedule PDF</a>
+		</li>
+		
 		<li>
 			<strong>4/ 14-15 /11 St. Mel School presents Bye Bye Birdie</strong><br/>
 			 6:30 pm- St. Mel School presents Bye Bye Birdie in Doheny Hall
@@ -142,10 +146,10 @@ filter:
               250
           );
       }
-      //Event.observe(window, 'load', autoFireLightbox, false);
+      Event.observe(window, 'load', autoFireLightbox, false);
 
   // ]]>
 </script>
 <!-- lightbox End-->
-<a href="images/prospective_parent_pop_up.docx.jpg" rel="lightbox" id="image001" style="display:none;"></a>
+<a href="images/goldriver_wine_pop_up.jpg" rel="lightbox" id="image001" style="display:none;"></a>
     
