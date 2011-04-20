@@ -80,7 +80,7 @@ filter:
 		<li>
       <strong>5/13/11 Passport to Gold River Wine Tasting benefit</strong>
 			<br/>
-			<a rel="lightbox" href="images/wine-tasting-big.jpg"><img src="images/wine-tasting.png"/></a><br/>
+			<a rel="lightbox" href="images/goldriver_wine_pop_up.jpg"><img src="images/wine-tasting.png"/></a><br/>
 			Contact Lori Estipular at (916) 849-0336 or
 			<a href="mailto:lorie@mbac.com">lorie@mbac.com</a> for ticket information.
     </li>
