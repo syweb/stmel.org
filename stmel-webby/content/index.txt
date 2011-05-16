@@ -68,13 +68,7 @@ filter:
 		6th grade in August 2011.<br/>
 			<a href="files/summer_school_packet.pdf">Information Packet</a>
 		</li>
-		<li>
-      <strong>5/13/11 Passport to Gold River Wine Tasting benefit</strong>
-			<br/>
-			<a rel="lightbox" href="images/goldriver_wine_pop_up.jpg"><img src="images/wine-tasting.png"/></a><br/>
-			Contact Lori Estipular at (916) 849-0336 or
-			<a href="mailto:lorie@mbac.com">lorie@mbac.com</a> for ticket information.
-    </li>
+		
 		
     </ul>
   </div><!-- col end -->
@@ -137,7 +131,7 @@ filter:
               250
           );
       }
-      Event.observe(window, 'load', autoFireLightbox, false);
+      //Event.observe(window, 'load', autoFireLightbox, false);
 
   // ]]>
 </script>
