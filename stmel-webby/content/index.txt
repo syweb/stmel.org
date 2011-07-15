@@ -149,10 +149,10 @@ filter:
               250
           );
       }
-      //Event.observe(window, 'load', autoFireLightbox, false);
+      Event.observe(window, 'load', autoFireLightbox, false);
 
   // ]]>
 </script>
 <!-- lightbox End-->
-<a href="images/goldriver_wine_pop_up.jpg" rel="lightbox" id="image001" style="display:none;"></a>
+<a href="images/test-of-stmel.jpg" rel="lightbox" id="image001" style="display:none;"></a>
     
