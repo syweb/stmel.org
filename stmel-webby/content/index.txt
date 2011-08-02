@@ -49,78 +49,30 @@ filter:
 
   </div><!-- col col-large end -->
   <div class="events col special">
-    <h3>Events &amp; Announcements</h3>
-    <ul>
-    <li class="font-plus1">
-    <p>
-    The Gold River Business Groups raises $5,500.00 to benefit 
-    the St. Mel's Technology Expansion Program</p>
-    
-    
-    <p>On May 13th, 2010 the Gold River Business Group held its third annual 
-    Passport to Gold River event at the Sunrise Event Center. Over 200 people 
-    enjoyed a great evening featuring 16 premium wines from Napa Valley wineries 
-    with wonderful food and dessert pairings and a lively jazz band and dancing. 
-    The overwhelming positive feedback with the event translated into $5,500 
-    raised for the benefit of St. Mel's Technology Expansion Program. More 
-    money was raised in this one evening than the previous two Passport events 
-    combined. We are currently planning the 2012 Passport event and look 
-    forward to continued success in supporting our community and its local 
-    business owners.</p>
-    
-    <p><a rel="lightbox" href="images/wite-testing-raised-popup.jpg" ><img src="images/wite-testing-raised.png" /></a></p>
-    
-    </li>
-    
-    <li class="font-plus1">WE ARE NOW ACCEPTING APPLICATIONS FOR THE 2011-2012 SCHOOL YEAR<br/>
-    <a href="files/Registration_Packet_2011-2012.pdf">2011-2012 Registration Packet</a> 
-    
-    </li>
-		<li class="font-plus1">
-		  <strong>August 15, 2011</strong> <br/>
-		  First day of classes for the 2011-2012 School Year
-		  
-		</li>
-		<li class="font-plus1">
-		  <strong>August 27, 2011</strong> <br/>
-		  5:30-9:00pm Taste of St. Mel
-		</li>
-		
-		
-		
-    </ul>
-  </div><!-- col end -->
-	
-	<!-- <div class="events col special">
-	    <h3>Why St. Mel School</h3>
-	   <ul>
-	     <li>
-	     "My wife, Cristina, and
-	     I appreciate the fact that in spite of the academic challenges and
-	     increasing demands placed on teachers to raise test scores St. Mel’s has not
-	     lost the focus of teaching virtue and helping us parents to develop good
-	     character in our kids." <a href="why-stmelschool.html">More...</a>
-	       <br/>
-	       <strong>Dr. Carlos Solis</strong>
-	     </li>
-	     <li>
-	       "We chose St. Mel Catholic School because we wanted an environment where our
-	       children are taught the same morals we teach at home; and where they are
-	       challenged academically." <a href="why-stmelschool.html">More...</a>
-	       <br/>
-	       <strong>Matt & Stephenie Walbeck</strong>
-	     </li>
-	     <li>
-	       "For us, we were introduced to St. Mel’s by my brother who has three children
-	       that attended St. Mel’s. All three kids have received a very strong
-	       education" <a href="why-stmelschool.html">More...</a>
-	       <br/>
-	       <strong>Charly and Sue Haddad</strong>
-	     </li>
-	   </ul>
-	  </div> -->
+      <h3>Events &amp; Announcements</h3>
+      <ul>
+      <li class="font-plus1">
+        <strong><i><font size="4">Accepting New Students and Applications for the 2011-2012 School Year!</font></i></strong><br>	
+  	    <p><strong><font color="yellow"><font size="3">Contact the school office (916) 967-2814 to arrange a school tour or to meet with our Principal. Messages left will be returned!</font></font></strong></p>
 
-  <!-- col end -->
+      <a href="files/Registration_Packet_2011-2012.pdf">2011-2012 Registration Packet</a> 
+
+      </li>
+      
+  		<li class="font-plus1">
+  		  
+  		  <strong>August 15, 2011</strong> <br>
+  		  <font color="yellow">First day of classes for the 2011-2012 School Year</font>
+        
+  		</li>
+  		<li class="font-plus1">
+  		  <strong>August 27, 2011</strong> <br>
+  		  <p><font color="yellow">5:30-9:00pm Taste of St. Mel</font><br/>
+  		  <a href="files/ticket_order_form.pdf">Taste of St. Mel Ticket Order Form</a> </p>
+  		</li>
+      </ul>
+    </div>  <!-- col end -->
+	
   <div class="clear"></div>
   <br />
 </div><!-- Content end -->
