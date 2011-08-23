@@ -105,6 +105,7 @@ filter:    erb
 
             </ul>
           </li>
+          <li><a href="alumni.html">Alumni</a></li>
           <li><a href="contact-us.html">Contact Us</a></li>
   		    <li class="sy-login"><a href="https://stmelfo.schoolyardapp.com/">Schoolyard Login</a></li>
         </ul>

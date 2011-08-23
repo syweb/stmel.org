@@ -9,7 +9,7 @@ body{background:#00182c url('../images/bg-grad.png') repeat-x; color:#ccd; font-
 strong{color:#fff;}
 .highlight{background:#002C51;display:block; padding:4px 2px; margin-top:4px;}
 
-.navigation{position:absolute; left:0; top:4px; height:39px; width:920px; padding:0 0 0 40px; background: url('../images/header-bg.gif'); font-size:15px; border-top:1px solid #000; border-bottom:1px solid #000}
+.navigation{position:absolute; left:0; top:4px; height:39px; width:950px; padding:0 0 0 10px; background: url('../images/header-bg.gif'); font-size:15px; border-top:1px solid #000; border-bottom:1px solid #000}
 .navigation ul{float:left; margin:0; padding:0;}
 
 .navigation li{float:left; display:inline; position:relative;} 
