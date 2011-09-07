@@ -44,6 +44,7 @@ filter:
 </div>
 <!-- facebook end  -->
 <img src="images/news_badge.png"/>
+<div style="height:200px">&nbsp;</div>
 
   </div><!-- col col-large end -->
   <div class="events col special">
@@ -58,9 +59,10 @@ filter:
       </li>
       <li class="font-plus1">
         <strong>September 16, 5:30-10 p.m. </strong><br/>
-        Fair Oaks Egg Dance and BBQ benefitting St. 
-        Mel School.<br/> Tickets on sale in the school office.
-
+        <p>Fair Oaks Egg Dance and BBQ benefitting St. 
+        Mel School.<br/> Tickets on sale in the school office.<br/><br/>
+        <a href="images/fair-oaks.jpg" rel="lightbox" id="image001" ><img src="images/fair-oaks-sml.jpg" alt="Fair Oaks Egg Dance and BBQ benefitting" /></a>
+        </p>
         
       </li>
   		<li class="font-plus1">
@@ -107,7 +109,7 @@ filter:
               250
           );
       }
-      Event.observe(window, 'load', autoFireLightbox, false);
+     // Event.observe(window, 'load', autoFireLightbox, false);
 
   // ]]>
 </script>
