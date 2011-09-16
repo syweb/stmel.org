@@ -44,7 +44,6 @@ filter:
 </div>
 <!-- facebook end  -->
 <img src="images/news_badge.png"/>
-<div style="height:200px">&nbsp;</div>
 
   </div><!-- col col-large end -->
   <div class="events col special">
@@ -74,9 +73,6 @@ filter:
       </ul>
       
     </div>  
-    <div>
-      <object width="410" height="308" id="wistia_312809" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://embed.wistia.com/flash/embed_player_v1.1.swf"/><param name="allowfullscreen" value="true"/><param name="allowscriptaccess" value="always"/><param name="wmode" value="opaque"/><param name="flashvars" value="videoUrl=http://embed.wistia.com/deliveries/b5f12602784176dc0ae9efc86b8589fcdb08046c.bin&stillUrl=http://embed.wistia.com/deliveries/0e9d82a60bc85fbbf29fc27c615b2f75b1554a93.bin&unbufferedSeek=false&controlsVisibleOnLoad=false&autoPlay=false&endVideoBehavior=default&playButtonVisible=true&embedServiceURL=http://distillery.wistia.com/x&accountKey=wistia-production_1841&mediaID=wistia-production_312809&mediaDuration=59.93"/><embed src="http://embed.wistia.com/flash/embed_player_v1.1.swf" width="410" height="308" name="wistia_312809" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" wmode="opaque" flashvars="videoUrl=http://embed.wistia.com/deliveries/b5f12602784176dc0ae9efc86b8589fcdb08046c.bin&stillUrl=http://embed.wistia.com/deliveries/0e9d82a60bc85fbbf29fc27c615b2f75b1554a93.bin&unbufferedSeek=false&controlsVisibleOnLoad=false&autoPlay=false&endVideoBehavior=default&playButtonVisible=true&embedServiceURL=http://distillery.wistia.com/x&accountKey=wistia-production_1841&mediaID=wistia-production_312809&mediaDuration=59.93"></embed></object><script src="http://embed.wistia.com/embeds/v.js" charset="ISO-8859-1"></script><script>if(!navigator.mimeTypes['application/x-shockwave-flash'])Wistia.VideoEmbed('wistia_312809',410,308,{videoUrl:'http://embed.wistia.com/deliveries/e1877512983cd37882ef9bfc279ddacc6e5011f7.bin',stillUrl:'http://embed.wistia.com/deliveries/0e9d82a60bc85fbbf29fc27c615b2f75b1554a93.bin',distilleryUrl:'http://distillery.wistia.com/x',accountKey:'wistia-production_1841',mediaId:'wistia-production_312809',mediaDuration:59.93})</script> 
-    </div>
     
     <!-- col end -->
 	
