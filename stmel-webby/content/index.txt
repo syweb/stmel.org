@@ -69,6 +69,18 @@ filter:
   		  <p>St. Mel's annual benefit auction, On Broadway<br/><br/>
   		    <img src="images/bordway.jpg" alt="St. Mel's annual benefit auction, On Broadway"   />
   		  </p>
+  		  <strong>Free Cup o' Joe! </strong>
+  		  <p>Be on the lookout for your glamorously dressed auction
+        chairs on Monday, September 26 and join them for a free cup of Starbucks at
+        drop off time. They'll be in front of Doheny Hall to answer questions about
+        this year's auction, so come by for your free cup o' joe and get the scoop!</p>
+        
+        <strong>Early Bird Auction Ticket Sales!</strong>
+        <p>Take advantage of the Early Bird Special
+        and purchase your auction tickets Sept. 26 - Oct. 1 for the discounted price
+        of $50/person. Plus, you'll receive a free drink coupon. Beginning Oct. 2,
+        tickets will be $55/per person. Look for the ticket sales sign in front of
+        Doheny Hall and stop by the auction booth at the Harvest Festival.</p>
   		</li>
       </ul>
       
