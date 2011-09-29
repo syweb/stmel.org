@@ -50,7 +50,7 @@ filter:
       <h3>Events &amp; Announcements</h3>
       <ul>
       <li class="font-plus1" style="height:220px;">
-        <div style="float:left; width:160px;"><a class="clickfire" href="images/pilo-miki.png"  ><img src="images/sml-pilo-miki.png"/></a></div>
+        <div style="float:left; width:160px;"><a class="clickfire" href="images/pilo-miki.jpg"  ><img src="images/sml-pilo-miki.png"/></a></div>
         <div style="float:left; width:200px;">Thank you to the Fair Oaks Lions Club for your support of our school! 
         Congratulations to Pilo and Miki DeLeon, winners of the Green Egg at this 
         year's Chicken Festival BBQ!</div>
