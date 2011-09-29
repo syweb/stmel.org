@@ -49,18 +49,16 @@ filter:
   <div class="events col special">
       <h3>Events &amp; Announcements</h3>
       <ul>
-      <li class="font-plus1">
-        <strong><i><font size="4">Accepting New Students and Applications for the 2011-2012 School Year!</font></i></strong><br>	
-  	    <p><strong><font color="yellow"><font size="3">Contact the school office (916) 967-2814 to arrange a school tour or to meet with our Principal. Messages left will be returned!</font></font></strong></p>
-
-      <a href="files/Registration_Packet_2011-2012.pdf" target="_blank">2011-2012 Registration Packet</a> 
-
+      <li class="font-plus1" style="height:220px;">
+        <div style="float:left; width:160px;"><a class="clickfire" href="images/pilo-miki.png"  ><img src="images/sml-pilo-miki.png"/></a></div>
+        <div style="float:left; width:200px;">Thank you to the Fair Oaks Lions Club for your support of our school! 
+        Congratulations to Pilo and Miki DeLeon, winners of the Green Egg at this 
+        year's Chicken Festival BBQ!</div>
+        
       </li>
-      
       <li class="font-plus1">
         <strong>October 1, 2011 From: 2:00 -  7:00pm</strong><br/> 
         Get Your Tickets to the Annual Harvest Festival Early and Save! <a href="images/order_form-final.pdf">Pre-Paid Ticket Order Form</a>
-        
       </li>
   		<li class="font-plus1">
   		  <strong>November 05, 2011</strong> <br>
@@ -120,6 +118,9 @@ $(function () {
 
       //autofire
       $("a.autofire").colorbox().click();
+      
+      //clickfire
+      $("a.clickfire").colorbox()
 
       //autofire with iframe
       //$("a.autofire").colorbox({width:"670", height:"1265", iframe:true}).click();
