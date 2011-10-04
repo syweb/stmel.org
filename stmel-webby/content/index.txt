@@ -56,10 +56,6 @@ filter:
         year's Chicken Festival BBQ!</div>
         
       </li>
-      <li class="font-plus1">
-        <strong>October 1, 2011 From: 2:00 -  7:00pm</strong><br/> 
-        Get Your Tickets to the Annual Harvest Festival Early and Save! <a href="images/order_form-final.pdf">Pre-Paid Ticket Order Form</a>
-      </li>
   		<li class="font-plus1">
   		  <strong>November 05, 2011</strong> <br>
   		  <p >St. Mel's annual benefit auction, On Broadway<br/><br/>
@@ -117,7 +113,7 @@ $(function () {
       $(document).ready(function(){
 
       //autofire
-      $("a.autofire").colorbox().click();
+      //$("a.autofire").colorbox().click();
       
       //clickfire
       $("a.clickfire").colorbox()
