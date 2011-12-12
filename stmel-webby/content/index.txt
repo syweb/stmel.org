@@ -50,14 +50,6 @@ filter:
       <h3>Events &amp; Announcements</h3>
       <ul>
     		<li class="font-plus1">
-    		  <strong>November 11, 2011</strong> <br>
-    		  Veteran's Day, SCHOOL CLOSED
-    		</li>
-    		<li class="font-plus1">
-    		  <strong>November 21-25, 2011</strong> <br>
-    		  Thanksgiving holiday, SCHOOL CLOSED
-    		</li>
-    		<li class="font-plus1">
     		  <strong>December 22, 2011 - January 03, 2012</strong> <br>
     		  Christmas Vacation, SCHOOL CLOSED 
     		</li>
