@@ -50,12 +50,14 @@ filter:
       <h3>Events &amp; Announcements</h3>
       <ul>
     		<li class="font-plus1">
-    		  <strong>December 22, 2011 - January 03, 2012</strong> <br>
-    		  Christmas Vacation, SCHOOL CLOSED 
+    		  <strong>Catholic Schools Week - January 29 - February 3</strong> <br><br>
+    		  <img src="images/csw-logo.png" alt="Catholic Schools Week"/><br>
+    		  January 29 – Catholic Schools Week Mass – 9:30 am<br>
+          Open House 10:30 –Noon. The St. Mel Book Fair, Art Show and Café will be open.
     		</li>
     		<li class="font-plus1">
-    		  <strong>January 04, 2012</strong> <br>
-    		  Classes resume
+    		  <strong>St. Mel Crab Feed - February 10th and 11th</strong> <br>
+    		  Ticket information coming soon.
     		</li>
     		
       </ul>
