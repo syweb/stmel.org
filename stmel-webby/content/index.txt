@@ -50,22 +50,27 @@ filter:
       <h3>Events &amp; Announcements</h3>
       <ul>
     		<li class="font-plus1">
-    		  <strong>Catholic Schools Week - January 29 - February 3</strong> <br><br>
+    		  <i>January 29 - February 3</i><br><strong> Catholic Schools Week </strong><br>
     		  <img src="images/csw-logo.png" alt="Catholic Schools Week"/><br>
-    		  January 29 – Catholic Schools Week Mass – 9:30 am<br>
-          Open House 10:30 –Noon. The St. Mel Book Fair, Art Show and Café will be open.
+    		  Contact the school office for a tour of our campus and see all the St. Mel
+          School has to offer.  916-967-2814
     		</li>
     		<li class="font-plus1">
-    		  <strong>St. Mel Crab Feed - February 10th and 11th</strong> <br>
-    		  Ticket information coming soon.
+    		  <i>February 10 - 11</i><br><strong>St. Mel Crab Feed</strong><br>
+    		  Ticket can be purchased through the school office.<br>  916-967-2814 for more
+          details
     		</li>
-    		
+    		<li class="font-plus1">
+    		  <i>February 20 - 24</i><br><strong>President's Holiday</strong><br>
+    		  SCHOOL CLOSED
+    		</li>
+    		<li class="font-plus1">
+    		  <i>April 6 - 13</i><br><strong>Easter vacation</strong><br>
+    		  SCHOOL CLOSED
+    		</li>
       </ul>
-      
     </div>  
-    
     <!-- col end -->
-	
   <div class="clear"></div>
   <br />
   
