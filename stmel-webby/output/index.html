@@ -10,7 +10,47 @@
   	<link rel="stylesheet" type="text/css" href="css/ie-only.css" />
   <![endif]-->
 	<script type="text/javascript" src="slideshow.js"></script>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<!-- FromeSy Start -->
+<script type="text/javascript" src="//commoncode.insightmethods.info/sites/4e2fd419b4dd800216000215/theme/javascripts/fromsy/handlebars.1.0.0.beta.3.js"></script>
+
+<script type="text/javascript" charset="utf-8">
+//var SYURL = "https://ghanshyam.schoolyardapp.com"
+var SYURL = "https://stmelfo.schoolyardapp.com"
+//commoncode.schoolyardapp.com/javascripts/sycontent.js
+</script>
+<script type="text/javascript" src="//commoncode.insightmethods.info/sites/4e2fd419b4dd800216000215/theme/javascripts/fromsy/sycontent.js"></script>
+<script type="text/javascript" charset="utf-8">
+  $(document).ready(function(){
+  sycontent('js/commontpl.js',
+    [
+      {
+        content: 'group_events',
+        template: "group_events_tpl", 
+        selector: "#upcoming_event",
+        params: {
+          id: '2257',
+          sort_by_field: "start_date", 
+          updated_at: "asc",
+          limit:5
+        }
+      },
+      {
+        content: 'group_announcements',
+        template: "group_announcements_tpl", 
+        selector: "#announcements",
+        params: {
+          id: '2257',
+          sort_by_field: "updated_at", 
+          updated_at: "desc",
+          limit:10
+        }
+      }
+    ]
+  )
+  })
+</script>
+<!-- FromeSy End -->
   <script src="js/main.js" type="text/javascript" charset="utf-8"></script>
 	<script type="text/javascript">
 
@@ -151,29 +191,9 @@
   </div><!-- col col-large end -->
   <div class="events col special">
       <h3>Events &amp; Announcements</h3>
-      <ul>
-    		<li class="font-plus1">
-    			<p>
-    				We are now accepting applications for students entering Transitional Kindergarten and Kindergarten for the 2012-2013 school year. 
-    			</p>
-    			<p>
-    				Students entering Kindergarten should be 5-years old by September 1, 2012, and students entering Transitional Kindergarten should be turning 5-years old between September 2, 2012 and December 31, 2012. 
-    			</p>
-    			<p>
-    				We are also accepting applications for new students in Grades 1-8 who are considering St. Mel School. 
-    			</p>
-    			
-    				Applications are available in the school office.
-    			
-    		</li>
-    		<li class="font-plus1">
-    		  <i>February 20 - 24</i><br><strong>President's Holiday</strong><br>
-    		  SCHOOL CLOSED
-    		</li>
-    		<li class="font-plus1">
-    		  <i>April 6 - 13</i><br><strong>Easter vacation</strong><br>
-    		  SCHOOL CLOSED
-    		</li>
+      <ul id="announcements">
+  		</ul>
+  		<ul id="upcoming_event">
       </ul>
     </div>  
     <!-- col end -->
@@ -241,6 +261,5 @@ $(function () {
       </p>
     </div>
   </div>
-  
 </body>
 </html>

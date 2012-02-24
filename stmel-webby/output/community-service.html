@@ -10,7 +10,47 @@
   	<link rel="stylesheet" type="text/css" href="css/ie-only.css" />
   <![endif]-->
 	<script type="text/javascript" src="slideshow.js"></script>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<!-- FromeSy Start -->
+<script type="text/javascript" src="//commoncode.insightmethods.info/sites/4e2fd419b4dd800216000215/theme/javascripts/fromsy/handlebars.1.0.0.beta.3.js"></script>
+
+<script type="text/javascript" charset="utf-8">
+//var SYURL = "https://ghanshyam.schoolyardapp.com"
+var SYURL = "https://stmelfo.schoolyardapp.com"
+//commoncode.schoolyardapp.com/javascripts/sycontent.js
+</script>
+<script type="text/javascript" src="//commoncode.insightmethods.info/sites/4e2fd419b4dd800216000215/theme/javascripts/fromsy/sycontent.js"></script>
+<script type="text/javascript" charset="utf-8">
+  $(document).ready(function(){
+  sycontent('js/commontpl.js',
+    [
+      {
+        content: 'group_events',
+        template: "group_events_tpl", 
+        selector: "#upcoming_event",
+        params: {
+          id: '2257',
+          sort_by_field: "start_date", 
+          updated_at: "asc",
+          limit:5
+        }
+      },
+      {
+        content: 'group_announcements',
+        template: "group_announcements_tpl", 
+        selector: "#announcements",
+        params: {
+          id: '2257',
+          sort_by_field: "updated_at", 
+          updated_at: "desc",
+          limit:10
+        }
+      }
+    ]
+  )
+  })
+</script>
+<!-- FromeSy End -->
   <script src="js/main.js" type="text/javascript" charset="utf-8"></script>
 	<script type="text/javascript">
 
@@ -146,6 +186,5 @@
       </p>
     </div>
   </div>
-  
 </body>
 </html>
