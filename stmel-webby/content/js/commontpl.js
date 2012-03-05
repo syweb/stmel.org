@@ -56,7 +56,7 @@ Handlebars.registerHelper('ifEql', function(v1, v2, options) {
 				{{{calendar.description}}}
 			{{/if}}   
 			{{#if calendar.has_downloads}}
-				<p><a href="{{../../syurl}}/publik/download/{{calendar.id}}" target="_blank">Click here to download</a></p>
+				<p><a href="{{../../syurl}}/publik/download/{{calendar.id}}" target="_blank">Download more information.</a></p>
 			{{/if}} 
 			{{#if calendar.location}}
 				<p>{{calendar.location}}</p>
@@ -80,17 +80,11 @@ Handlebars.registerHelper('ifEql', function(v1, v2, options) {
 				{{#if announcement.created_at}}
 					<div class="sy-startdate">
 					<span class="sy-heading">Start Date :</span>{{sy_date announcement.created_at}}
-					<span class="sy-day">&nbsp;</span>
-					<span class="sy-month">&nbsp;</span>
-					<span class="sy-year">&nbsp;</span>
 					</div>
 				{{/if}}
 				{{#if announcement.expiration}}      
 					<div class="sy-enddate">
 					<span class="sy-heading">End Date :</span>{{sy_date announcement.expiration}}
-					<span class="sy-day">&nbsp;</span>
-					<span class="sy-month">&nbsp;</span>
-					<span class="sy-year">&nbsp;</span>
 					</div>
 				{{/if}}   -->   
 				{{#if announcement.content}}
@@ -99,7 +93,7 @@ Handlebars.registerHelper('ifEql', function(v1, v2, options) {
 				{{#if announcement.has_downloads}}
 					<p class="sy-attachment">
 					<a href="{{../../syurl}}/publik/download/{{announcement.id}}" target="_blank">
-					Click here to download
+						Download more information. 
 					</a>
 					</p>  
 				{{/if}}
