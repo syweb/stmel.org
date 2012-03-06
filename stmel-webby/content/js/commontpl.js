@@ -4,7 +4,7 @@ Handlebars.registerHelper('sy_date', function(date_string, style) {
   date = Date.parse(date)
 	if (!isNaN(date)){
 		var ary = new Date(date).toDateString().split(' ');
-		console.log(ary)
+		//console.log(ary)
 		if(style === 'day'){
 			return ary[2]
 		}else if(style === 'month'){
