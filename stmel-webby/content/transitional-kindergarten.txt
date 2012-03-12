@@ -1,0 +1,50 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header" style="background:url(images/header/DSC_0039.jpg) no-repeat 0 0;"></div>
+<h2>Transitional Kindergarten(TK)</h2>
+<div class="col col-x-large">
+
+<h3>WHY CHOOSE ST. MEL?</h3>
+
+<h3>Our Curriculum</h3>
+	<p>Faith is central to all learning that takes place at St. Mel Catholic 
+		School. Our TK class is fully involved in the school faith community. TK 
+		students attend Mass and prayer services and participate in school-wide 
+		service projects. The goal of TK is to provide a fun, positive, small-group 
+		setting that encourages a love of learning, develops a sense of community, 
+		and prepares your child for Kindergarten in a faith- filled environment. 
+		This is achieved through a combination of developmental, multi-sensory, 
+		academic and social experiences.
+	</p>
+	
+<h3>Enrichment Activities</h3>
+	<p>The TK program at St. Mel School allows each child the opportunity to 
+	participate on a weekly basis in enrichment activities including: Spanish, 
+	Physical Education, Technology Lab, and visiting the school Library. Our 
+	program will provide many opportunities for each child to achieve the 
+	knowledge and skills necessary to prepare them for Kindergarten. 
+	</p>
+	
+<h3>Class Session</h3>
+	<p>The TK class meets Monday through Friday 8:00 a.m. to 11:30 a.m. and follows 
+	the St. Mel school calendar. For busy families who need before and after 
+	school care, the Extension program is open from 7:00 – 8:00 a.m. and from 
+	11:30 a.m. – 6:00 p.m. while school is in session.
+	</p>
+	
+<h3>How do we apply?</h3>
+	<p>Please contact the school office at 916-967-2814 and schedule an appointment 
+	to visit St. Mel School. Applications are available from the school office 
+	or can be downloaded <a href = "files/Registration_form.pdf" target = "_blank">here.</a> If you have any questions 
+	or need additional information, please feel free to contact the TK teacher, 
+	Mrs. Suzanne Vierra, at <a href ="mailto:svierra@stmelschool.org" >svierra@stmelschool.org.</a> and/or call 916-967-3105.
+	</p>
+
+
+</div>
+<div class="clear"></div>
+

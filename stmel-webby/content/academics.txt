@@ -12,6 +12,10 @@ filter:
   <li><a href="school-wide.html">Learning Expectations</a></li>
 
   <li><a href="curriculum-standards.html">Curriculum Standards</a></li>
+
+  <li><a href="transitional-kindergarten.html">Transitional Kindergarten</a></li>
+
+  <li><a href="kindergarten.html">Kindergarten</a></li>
 </ul>
 
 </div>
