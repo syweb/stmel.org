@@ -8,7 +8,7 @@ filter:
 <h2>Enrollment Application</h2>
 <div class="col col-x-large">
   <br />
-  <p><a href="files/Registration_Packet_2011-2012.pdf">2011-2012 Registration Packet</a> </p>
+  <p><a href="files/Registration-Packet-2012-2013-draft-2.doc">2012-2013 Registration Packet</a> </p>
 <br /><br /><br /><br /><br />
 </div>
 <div class="clear"></div> 
