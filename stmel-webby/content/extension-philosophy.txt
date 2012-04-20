@@ -7,30 +7,17 @@ filter:
 <div class="header" style="background:url('images/header/extension-staff.jpg') no-repeat 0 0;"></div>
 <h2>The Extension Philosophy </h2>
 <div class="col col-x-large">
-<p>St. Mel Extension Program supports and supplements the family by providing
-a safe and comfortable environment for the children of St. Mel School. We
-provide a link between school and home, fulfilling the needs of the
-children, parents and our parish community.
+<p>St. Mel Extension Program supports and supplements the family by providing a safe and comfortable environment for the children of St. Mel School. We provide a link between school and home, fulfilling the needs of the children, parents and our parish community.
 </p>
 
-<p>We are an Extended Day Program of St. Mel School. Therefore, we adhere to
-the same philosophies, rules and regulations as stated in the School
-Parent-Student Handbook.
+<p>We are an Extended Day Program of St. Mel School. Therefore, we adhere to the same philosophies, rules and regulations as stated in the School Parent-Student Handbook.
 </p>
 
-<p>While the school has a structured environment, our Extended Care Program
-will provide a flexible setting for relaxation and learning. This will be
-done by providing adult supervisors who are sensitive to the psychological
-and physical needs of each child.
+<p>While the school has a structured environment, our Extended Care Program will provide a flexible setting for relaxation and learning. This will be done by providing adult supervisors who are sensitive to the psychological and physical needs of each child.
 </p>
 
-<p>In following the philosophy and goals of the school, we will provide a
-bridge between the school and home environment. The component parts of
-this program include snack, homework supervision, recreation, enrichment
-activities, and a rest period for Kindergarten students. We hope that your
-child will relax, thrive and develop closer friendships in a safe, caring,
-Catholic, Christian atmosphere.
-</p>
+<p> In following the philosophy and goals of the school, we will provide a 
+bridge between the school and home environment. The main components of this program include:  snack, study hall, supervision, recreation, and enrichment activities.  We hope that your child will relax, thrive and develop closer friendships in a safe, caring, Catholic, Christian atmosphere.  
 
 <p>St. Mel Extension Program does not discriminate on the basis of race,
 color, sex, age, national origin or handicap. 
