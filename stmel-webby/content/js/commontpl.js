@@ -64,7 +64,7 @@ Handlebars.registerHelper('ifEql', function(v1, v2, options) {
 		</li>		
 	{{/each}}
 {{else}}
-	<p class="col-data">No New Event.</p>
+	<p class="col-data"><!-- No New Event. --></p>
 {{/if}}
 </script>
 
@@ -100,7 +100,7 @@ Handlebars.registerHelper('ifEql', function(v1, v2, options) {
 			</li>	  
 		{{/each}}
 	{{else}}
-		<p>No New Announcement.</p>
+		<p><!-- No New Announcement. --></p>
 	{{/if}}  
 </script>            
 
@@ -148,7 +148,7 @@ Handlebars.registerHelper('ifEql', function(v1, v2, options) {
 			</div>
 		</div>  
 	{{else}}
-		<p>Not Available</p>
+		<p><!-- Not Available --></p>
 	{{/if}}  
 </script> 
 
