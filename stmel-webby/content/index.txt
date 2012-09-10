@@ -16,7 +16,7 @@ filter:
   <h2>Welcome to St. Mel School</h2>
   <div class="col col-large">
     <p>St. Mel School is proud to carry on the traditions from our founders, the Sisters of Mercy.  Since the doors opened 50 years ago, St. Mel School has graduated outstanding young students on their way to being successful high school students.  We are a TK- 8th grade Catholic co-educational elementary and junior high school located in Fair Oaks, California.  The school is accredited by the Western Catholic Educational Association and the Western Association of Schools and Colleges. Our
-    enrollment for the 2011-2012 school year is 250 students.</p>
+    enrollment for the 2012-2013 school year is 265 students.</p>
 
 <p>
 	We are dedicated to serving our student body and their families by providing an education grounded in the Catholic tradition.  We want our graduates to become valuable members of the greater community by integrating faith with academic excellence.  
