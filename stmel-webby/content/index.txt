@@ -13,6 +13,7 @@ filter:
   </div>
 </div>
 <div class="content">
+  
   <h2>Welcome to St. Mel School</h2>
   <div class="col col-large">
     <p>St. Mel School is proud to carry on the traditions from our founders, the Sisters of Mercy.  Since the doors opened 50 years ago, St. Mel School has graduated outstanding young students on their way to being successful high school students.  We are a TK- 8th grade Catholic co-educational elementary and junior high school located in Fair Oaks, California.  The school is accredited by the Western Catholic Educational Association and the Western Association of Schools and Colleges. Our
@@ -49,8 +50,10 @@ filter:
   </div><!-- col col-large end -->
   <div class="events col special">
       <h3>Events &amp; Announcements</h3>
+      <div id="defaultCountdown"></div>
       <ul id="announcements">
   		</ul>
+  		
   		<ul id="upcoming_event">
       </ul>
     </div>  
@@ -67,7 +70,7 @@ filter:
 <script src="countdown/jquery.countdown.js" type="text/javascript"></script>
 <script type="text/javascript">
 $(function () {
-  var austDay = new Date(2011, 10, 5);
+  var austDay = new Date(2012, 10, 4);
   //alert(austDay);
 	$('#defaultCountdown').countdown({until: austDay, timezone: +00});
 });
