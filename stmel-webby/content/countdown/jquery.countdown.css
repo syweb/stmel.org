@@ -1,6 +1,6 @@
 /* jQuery Countdown styles 1.5.9. */
 .hasCountdown {
-	position:absolute;
+  height:44px;
 	width:80%;
 	top:400px;
 	left:5%; 
