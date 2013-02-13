@@ -87,10 +87,10 @@ $(function () {
       $(document).ready(function(){
 
       //autofire
-      $("a.autofire").colorbox().click();
+      //$("a.autofire").colorbox().click();
       
       //clickfire
-      $("a.clickfire").colorbox()
+      //$("a.clickfire").colorbox()
 
       //autofire with iframe
       //$("a.autofire").colorbox({width:"670", height:"1265", iframe:true}).click();
@@ -98,7 +98,7 @@ $(function () {
       });
 </script>
 <!-- This contains the hidden content for inline calls start-->
-<a class="autofire" href="images/crab.jpg"  style="display:none;"> </a>
+<!-- hide on 13-02-2013 when unhide it open both commented JS <a class="autofire" href="images/crab.jpg"  style="display:none;"> </a> -->
 <!-- This contains the hidden content for inline calls end-->
 <!-- color box end -->
 
