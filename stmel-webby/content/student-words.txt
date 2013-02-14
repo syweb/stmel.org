@@ -7,7 +7,7 @@ filter:
 <div class="header" style="background:url(images/header/student-council.jpg) no-repeat 0 0;"></div>
 <h2>In Their Own Words</h2>
 
-  <div class="col col-large">
+  <div class="col col-x-large">
   <p><em>“…St. Mel School changes lives, and brings out the spirit of accomplishment and achievement in every student who comes to this school.  St. Mel graduates are joy bringers, love bearers and advocates of empowerment….The teachers at St. Mel’s are absolutely fabulous.  They are inspirational, and they help to make differences in the lives of their students.  They believe in us, nurture us, and prepare us for the years to come.  They are a huge part of why the education at St. Mel’s is so great….The faith formation at St. Mel’s is very strong and students are encouraged to share about their faith unlike in public schools where faith sharing and opinion sharing is un-allowed…”</em> <br>- Anna C.</p>
   <p><em>“…When I walked into St. Mel School for the first time, I knew that I made the right decision.  Everyone, even a little TK student helped me out my first day at school.  By going here for two years, I have noticed St. Mel not only educated students in academics, but also educates about morals and how to interact with others…”</em> <br>- San D.</p>
   <p><em>“…My Catholic Education offers so many great opportunities to learn more about God, strive in academics and become a smart, healthy and warm hearted person.  Going to a Catholic school benefits me because I am being taught good things to use in life and things that will make me successful….I honestly think that a Catholic Education is the most benefiting education there can be.”</em> <br>- Kyle E.</p>
