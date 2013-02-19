@@ -1,0 +1,16 @@
+---
+
+filter:
+  - erb
+
+---
+<div class="header" style="background:url('images/header/mega-skills.jpg') no-repeat 0 0;"></div>
+<h2>Summer Program</h2>
+<div class="col col-x-large">
+<p>Every summer St. Mel School offers a six week session for students entering TK-5th grade. Scheduling is flexible and before and after school care is available. Our Summer Program is run by credentialed teachers. The morning program is focused on academics and includes writer’s workshop, literacy based learning, and math skills. The afternoon program revolves around themed summer camp activities such as Wild West, Mad Scientist, and Luau. Packets available March 1st.
+</p>
+<p>&nbsp;</p>
+
+</div>
+<div class="clear"></div>
+
