@@ -98,6 +98,7 @@ var SYURL = "https://stmelfo.schoolyardapp.com"
                 </ul>
               </li>
               <li><a href="campus-tour.html">Campus Tour</a></li>
+              <li><a href="summer-program.html">Summer Program</a></li>
 
             
             </ul>
