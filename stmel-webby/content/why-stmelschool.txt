@@ -21,9 +21,9 @@ filter:
 	<p>
 	As school Principal, I have the responsibility of promoting stewardship among the students, faculty, and staff. At St. Mel School, the concept of stewardship is part of our faith development. We integrate stewardship into various areas of our school programs – morning prayer, liturgy, assemblies, Student Learning Expectations, and through participating in community service projects (school-wide, classroom, and individually). In particular, as part of their preparation to receive the Sacrament of Confirmation, our 7th & 8th graders volunteer 20 hours during the school year. This provides the school an opportunity to network with social service and outreach organizations.</p>
 	<p>
-	I look forward to the rest of this school year with gratitude and an appreciation for our history along with great hope for our future! As St. Francis of Assisi said,"It is in giving that we receive". Please feel free to contact me at jnagel@stmelschool.org.</p>
+	I look forward to the rest of this school year with gratitude and an appreciation for our history along with great hope for our future! As St. Francis of Assisi said,"It is in giving that we receive". Please feel free to contact me at <a href="mailto:jnagel@stmelschool.org">jnagel@stmelschool.org</a>.</p>
 	</div>
-<p>&nbsp;</p>	
+
 	<h3>Testimonials</h3>
   <p>I’ve always regarded the reference to one’s college-- Alma
 	Mater or “Nourishing Mother” as a bit over the top. But after reflecting
