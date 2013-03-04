@@ -32,13 +32,11 @@ helped in sprucing up the Extension classrooms. We are truly blessed to have so 
 invited to drop by for a visit, call or e-mail us at 916-967-3105 or <a href="mailto:extension@stmelschool.org">extension@stmelschool.org</a>
 </p>
 
-<p><a href="/files/Registration-Extension-packet-2013-14.doc" class="word">Extension registration form for TK (MS Word file)<a> 
-<!-- <a href="/files/Extension_Reg_Pack_2012-2013_TK_final.doc" class="word">Extension registration form for TK (MS Word file)<a> --></p>
-
 <p>
-<a href="/files/Registration-Extension-packet-2013-14.doc" class="word">Extension registration form for Kindergarten-8th grades (MS Word file)<a>
-<!-- <a href="/files/Extension_Reg_Pack_2012-2013_K-8th_Final.doc" class="word">Extension registration form for Kindergarten-8th grades (MS Word file)<a> --></p>
-
+<a href="/files/Registration-Extension-packet-2013-14.doc" class="word">
+Extension Registration and Information Packet (MS Word file)
+<a>
+</p>
 </div>
 <div class="clear"></div>
 
