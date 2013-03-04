@@ -13,7 +13,7 @@ program continues to offer several payment plans in an effort to accommodate the
 various scheduling needs of students in grades TK through Eight. St. Mel Extension is
 self-sustaining and parent fees are its sole support.
 </p>
-<p>The 2013 school year will be our thirteen year of service to the families of St.
+<p>The 2013 school year will be our Fourteenth year of service to the families of St.
 Mel Catholic School. We continue our commitment to meet the needs of busy families by providing a safe, healthy and positive atmosphere which complements your child’s needs before and/or after the regular school day in a consistent faith filled environment. Our ultimate goal is that each child will relax, thrive and develop a sense of responsibility for self and concern for others.
 </p>
 
@@ -32,9 +32,12 @@ helped in sprucing up the Extension classrooms. We are truly blessed to have so 
 invited to drop by for a visit, call or e-mail us at 916-967-3105 or <a href="mailto:extension@stmelschool.org">extension@stmelschool.org</a>
 </p>
 
-<p><a href="/files/Extension_Reg_Pack_2012-2013_TK_final.doc" class="word">Extension registration form for TK (MS Word file)<a></p>
+<p><a href="/files/Registration-Extension-packet-2013-14.doc" class="word">Extension registration form for TK (MS Word file)<a> 
+<!-- <a href="/files/Extension_Reg_Pack_2012-2013_TK_final.doc" class="word">Extension registration form for TK (MS Word file)<a> --></p>
 
-<p><a href="/files/Extension_Reg_Pack_2012-2013_K-8th_Final.doc" class="word">Extension registration form for Kindergarten-8th grades (MS Word file)<a></p>
+<p>
+<a href="/files/Registration-Extension-packet-2013-14.doc" class="word">Extension registration form for Kindergarten-8th grades (MS Word file)<a>
+<!-- <a href="/files/Extension_Reg_Pack_2012-2013_K-8th_Final.doc" class="word">Extension registration form for Kindergarten-8th grades (MS Word file)<a> --></p>
 
 </div>
 <div class="clear"></div>
