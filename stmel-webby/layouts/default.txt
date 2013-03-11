@@ -145,7 +145,8 @@ var SYURL = "https://stmelfo.schoolyardapp.com"
                   <li><a href="academic-excellence.html">Academic Excellence</a></li> 
                   <li><a href="kids-community.html">Kids in the Community</a></li> 
                   <li><a href="building-future.html">Building the Future</a></li> 
-                  <li><a href="whole-child.html">The Whole Child</a></li> 
+                  <li><a href="whole-child.html">The Whole Child</a></li>
+                  <li><a href="stewardship.html">Stewardship</a></li> 
                 </ul>
 							</li>
 
