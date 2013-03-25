@@ -7,6 +7,7 @@ filter:
 <div class="header" style="background:url(images/header/kids-community.jpg) no-repeat 0 0;"></div>
 <h2>Kids in the Community</h2>
 <div class="col col-x-large">
+  <img src="images/food-bank-service.jpg" style="float:left; margin:0 10px 10px 0;" height="181"></img>
   <p>St. Mel Catholic School perpetuates a strong sense of service in the local 
 	community and beyond. We strive to educate the whole child in an atmosphere 
 	of faith and academic excellence and a commitment to serve others. Our goal 

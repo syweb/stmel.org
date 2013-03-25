@@ -18,8 +18,8 @@ filter:
   <p>TK is designed to be a bonus year before Kindergarten. TK students should be 4 years old by September 1st, 2013. Parents of any student applying for TK must compete a New Family Registration Form</p>
   
   <p>For more information on our program click <a href = "transitional-kindergarten.html">here.</a></p>
-  <p><a href="files/Enrollment-Application.doc">Click here for New Family Registration Form</a></p>
-  <p><strong>Campus tours</strong> are available anytime with a reservation. Please call the school office at <strong>916-967-2814</strong> or e-mail <a href="mailto:office@stmelschool.org">office@stmelschool.org</a> to set up an appointment. These tours run approximately thirty minutes and are for prospective students and parents. You will have an opportunity to learn more about student life and how St. Mel School integrates faith with academic excellence and meet the school principal, Mrs. Janet Nagel. She will be able to answer all your questions regarding admission criteria, Student Learning Expectations, curriculum standards, financial aid, before and after school care, student clubs, athletics, technology, fine arts, etc.</p>
+  <p><a href="files/newfamilyapplication2013.pdf" target="_blank">Click here for the New Family Application</a></p>
+  <p><strong>Campus tours</strong> are available with a reservation. Please call the school office at 916-967-2814 or e-mail <a href="mailto:office@stmelschool.org">office@stmelschool.org</a> to set up an appointment. These tours run approximately one hour and are for prospective students and parents. You will have an opportunity to learn more about student life and how St. Mel School integrates faith with academic excellence and meet the school principal, Mrs. Janet Nagel. She will be able to answer all your questions regarding admission criteria, Student Learning Expectations, Common Core Standards, student visitation day, financial aid, before and after school care, student clubs, athletics, technology, fine arts, etc.</p>
 </div>
 <div class="clear"></div>
 

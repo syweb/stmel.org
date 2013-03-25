@@ -11,8 +11,7 @@ filter:
 <ul>
   <li><a href="letter-from-principal.html">Letter From The Principal</a></li>
   <li><a href="admission-process.html">Admission Process</a></li>
-  <li><a href="admission-timeline.html">Admission Timeline</a>
-  <li><a href="enrollment-application-form.html">Enrollment Application</a>
+  <li><a href="enrollment-application-form.html">New Family Application and Registration Packet</a>
   <li><a href="visitation.html">Visit Us</a>
 </ul>
 <div class="stewardship">
