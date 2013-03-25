@@ -8,6 +8,7 @@ filter:
 <h2>Visit Us</h2>
 
 <div class="col col-x-large">
+  <p>Saint Mel School offers a visitation program for prospective students applying to grades  two - eight to experience a typical day at our school. Visitation begins at 8:00 a.m. in the school office For incoming students to TK, Kindergarten and First grade, parent observations are arranged on an individual basis. Please call the school office at <strong>916-967-2814</strong> or e-mail <a href="mailto:office@stmelschool.org">office@stmelschool.org</a> to schedule a convenient date.</p>
   <p>Campus tours are available with a reservation. Please call the school office at 916-967-2814 or e-mail <a href="mailto:office@stmelschool.org">office@stmelschool.org</a> to set up an appointment. These tours run approximately one hour and are for prospective students and parents. You will have an opportunity to learn more about student life and how St. Mel School integrates faith with academic excellence and meet the school principal, Mrs. Janet Nagel. She will be able to answer all your questions regarding admission criteria, Student Learning Expectations, Common Core Standards, student visitation day, financial aid, before and after school care, student clubs, athletics, technology, fine arts, etc.</p>
 </div>
 <div class="clear"></div>
