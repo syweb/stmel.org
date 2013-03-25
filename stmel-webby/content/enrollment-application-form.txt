@@ -14,8 +14,8 @@ filter:
 <li>Immunization Records</li>
 <li>Baptismal Certificate</li>
 <li>Copy of last Report Card (for grades 1-8)</li>
-<p><a href="files/newfamilyapplication2013.pdf" target="_blank">Download New Family Application here</a></p>
 </ul>
+<p><a href="files/newfamilyapplication2013.pdf" target="_blank">Download New Family Application here</a></p>
 <h3>Registration Packet</h3>
 <p>Registration for both returning and new families takes place in early May. You may stop by the school office anytime during business hours to pick up a registration packet, or download the registration packet below. Any students accepted for admissions after the May registration date will be registered by appointment. Registration fees are due at the time of registration.</p>
 <p><a href="files/Registration_Packet_2013-2014.pdf" target="_blank">Download Registration packet here</a></p>
